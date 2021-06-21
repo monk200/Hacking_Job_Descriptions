@@ -1,0 +1,2161 @@
+About the job
+Robotics Systems Engineer (Round Rock, TX)
+
+ABOUT SISU:
+Looking for a fulfilling job at a company where you can make a real impact? If so, Sisu may be the place for you. Sisu provides a fast-paced and exciting work environment in the field of robotics and automation. But we're not your typical integrator - we take on complex engineering problems that often involve adopting or inventing new technologies. Examples include knife sharpening robots that feel their way through the grinders, easy-to-use robots for the film industry, micron-level precision test systems, and low-cost military grade ventilators for the COVID-19 pandemic. At its core, Sisu exists to bless the lives of our customers and employees, and we’re looking for the best and brightest minds to come join us in continuing to fulfill that mission each and every day.
+ Check us out at sisu.us
+
+JOB DESCRIPTION:
+A Systems Engineer at Sisu plans, designs, tests, and develops complex and truly incredible industrial automation systems. Top qualities include a passion for engineering, uncompromising integrity, and an iron work ethic. Responsibilities include, but are not limited to, programming fixed-based robots, designing user interfaces for industrial and consumer-facing applications, developing and architecting sophisticated, modular, and autonomous code in LabVIEW, and assisting in the definition of project scope, objectives, and allocation of resources.  This is a full-time, salaried position.
+
+MINIMUM QUALIFICATIONS:
+BS in Electrical, Computer, Mechanical Engineering, Computer Science, or equivalent
+5 years LabVIEW development experience or CLA level experience (no certificate required)
+Long-term interest in LabVIEW development
+ PREFERRED QUALIFICATIONS:
+Experience programming in LabVIEW RT, LabVIEW FPGA, and/or LabVIEW SoftMotion
+Advanced LabVIEW certification (CLD, CLED, CLA, etc.)
+Experience in mechanical, electrical, and/or system design
+Experience programming industrial robots (Kuka, Fanuc, ABB, etc.)
+In-depth understanding and knowledge of robot kinematics and dynamics
+A love of tinkering and building crazy projects at home on your own time (One guy who applied here said his computer broke so he took it apart, popped the mother board in his oven, reflowed the solder, put it back together and it worked. We hired that guy)
+
+BENEFITS:
+In addition to our competitive compensation plan we offer a great work environment, fun atmosphere, and a full benefits package including medical, dental, and vision benefits, 401K, paid time off, and 10 paid holidays per year.
+
+We are interested in every qualified candidate who is eligible to work in the United States. However, we are not able to sponsor applicants for work visas.
+About the job
+Develop navigation, and perception capabilities on a mobile robot. You will need to rapidly integrate and evaluate third party libraries, keep abreast of current research, and develop core autonomy capabilities.
+
+Requirements
+strong C++ programming skills
+experience with mobile robotics
+
+Bonus points for
+proven ability to ship working robotic applications
+experience with path planning and/or control
+experience with localization and mapping algorithms
+experience with 3D obstacle avoidance and navigation algorithms
+experience in computer vision or deep learning
+experience with sensors and hardware
+About the job
+We are changing the agricultural world with autonomy at Bear Flag Robotics. Our team is building a fleet of autonomous farming tractors and is looking for a Robotics Software Engineer to join our team. Ideally you have built robots from the ground up and have intuition around implementing a robotics stack from sensor selection to perception to localization to path planning. You’re comfortable in Python/ C/ C++ and working on a breadth of problems. Experience with autonomous driving, robotics/ ROS, computer vision, machine learning are a huge plus.
+
+If you’re an enthusiastic self-starter who thrives in ambiguous environments, thinks outside the box, and wants to play a pivotal role in designing autonomous heavy equipment we encourage you to apply!
+About the job
+Job Brief
+Aurora Flight Sciences is a world-leader in developing robot hardware and software for new aerospace applications. Click to apply and find out more!
+
+Aurora Flight Sciences is a world-leader in developing robot hardware and software for new aerospace applications. We develop and apply state-of-the-art technologies in sensing, actuation, planning, design, and system verification & validation to bring innovative robot prototypes to life.
+
+Job Qualifications
+
+Aurora Flight Sciences is a world-leader in developing robot hardware for new aerospace applications. We develop and apply state-of-the-art technologies in sensing, actuation, planning, design, and system verification & validation to bring innovative robot prototypes to life.
+
+Specific Responsibilities
+The Robotics Engineer contributes to conceptualizing, designing, building, testing, and demonstrating robot prototypes, in dynamic simulation, controlled lab settings, hardware-in-the-loop aircraft simulations, and in flight on full-scale aircraft.
+Position is available for both hardware and software-oriented roboticists.
+Minimum Requirements
+0 – 10 years experience.
+Must be a US Person (citizen or permanent resident)
+Candidates must have demonstrated interest and ability to design and build robots.
+Candidates must have excellence in at least one of the following, and a working knowledge or interest in a majority of the others:
+Real-time computation
+Power electronics
+Trajectory planning
+Electromechanical system design
+Machine vision
+Rapid prototyping
+Dynamic simulation
+Tactile sensing
+Math
+Low-level motor control
+Acceptance testing of physical robot hardware
+Real-time control of multi-DOF robots
+Software engineering
+Communication protocols
+Embedded systems
+Candidates should have a zeal for working on high-functioning and diverse teams and for making real systems work.
+Physical Requirements
+Occasionally required to travel
+
+Aurora Company Overview
+
+Aurora Flight Sciences, a Boeing Company, is a leader in the development and manufacturing of advanced unmanned systems and aerospace vehicles. Our mission is to apply autonomy and robotics to the development, production, and operation of advanced aircraft. During the last three decades, Aurora has designed, rapid-prototyped, and flown an average of one new vehicle a year for both government and commercial customers. Now, as an independent subsidiary of Boeing, Aurora’s innovation is combined with Boeing’s size and strength, creating an unprecedented opportunity to shape the future of aerospace systems.
+
+Aurora Flight Sciences, A Boeing Company, is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.
+About the job
+Job description:
+Bachelor's (BS) or Master's (MS) degree in Electrical or Computer Engineering
+Experience in C, C++, and/or Python programming
+Real-time embedded software development or other hardware-related skills
+Knowledge or relevant course work in microcontrollers and system level programming
+0 to 2 years of software development/testing experience
+Should have the capability to work in a dynamic work atmosphere
+Excellent verbal, written and communication skills are required
+GPA of 3.0 or higher is strongly preferred
+About the job
+ 
+
+Owl Labs is seeking a Senior Robotics Engineer to join our diverse team. The ideal candidate has strong experience developing robotics algorithms for use in unconstrained natural environments, but that execute on a resource constrained mobile-class processing unit. You love taking sensor data and turning it into robust world models and using it to make real-time high-level decisions. Bonus if you have interest and experience in basic computer vision algorithms and can find your way around OpenCV. Double bonus is you have machine learning experience.
+
+In this role, you will impact some of the company's most important product development goals as you develop the technology that is at the core of Owl Labs’ groundbreaking products.
+
+ 
+
+What You’ll Do
+
+We are looking for a Senior Robotics Engineer who will help us advance our ability to make sense of the world and make intelligent decisions about how to react to it. On a daily basis, you’ll carry out some of the various engineering tasks as listed below, with some flexibility dependent on your level of experience:
+
+Work with product managers and other engineers in order to help define user-level details by providing technical feasibility/difficulty estimates.
+Collaborate with your peers to offer your expertise on their projects and well as bring their ideas into yours.
+Work independently to design and implement specific robotics algorithms that accomplish well-defined user-level goals.
+Collaborate with a team of cross-disciplinary software engineers while you integrate your algorithms into a resource-constrained computational system that must share processing time with other robotics-style digital filtering algorithms, computer vision algorithms, audio algorithms, and machine learning algorithms.
+Test and debug your code and features so that you are proud of what will be tested by the SQA team and confident that it will pass.
+Work with SQA team to debug your work as you take your features to production release.
+Help field technical questions from our customer support team as they help our users have the best experience possible.
+Work on iterative releases, MVP-style, on features that generally take a month or two to develop, not a year or two.
+ 
+
+Qualifications
+
+Requirements:
+
+BS/MS in Computer Science, Engineering, et al. or a great portfolio of robotics work.
+5+ years professional experience with classic robotics algorithms and techniques.
+Proficiency in C++ and C, and ability to develop clean well-documented modular code.
+Experience with SOC and/or microcontroller development.
+Comfort in developing in a Linux environment.
+Strong engineering test & debug skills for complex real-time systems.
+Experience with version control (preferably Git) and bug tracking systems.
+Proven creativity in developing for resource constrained hardware environments.
+Ability and desire to develop with the end-user in mind.
+Proactive and clear communication abilities.
+Appreciation for documentation.
+Co-worker & customer empathy.
+ 
+
+The best candidates will have:
+
+5+ years professional experience with classic robotics algorithms and techniques.
+Good fundamental knowledge of DSP techniques.
+Experience developing Bayesian estimators such as Kalman and particle filters.
+Strong knowledge of statistics, especially as applied in probabilistic algorithms
+Skillful at code instrumentation for algorithm development and debug.
+Great track record of knowing when to switch between simulation and the real-world for both development and testing.
+Experience developing machine learning algorithms and good fundamental knowledge of how they work.
+Some computer vision experience, including experience working with OpenCV.
+Love of developing for resource constrained hardware platforms. 
+Experience working within embedded Android. 
+Experience developing for mobile-class SOC.
+Experience building software for consumer products.
+ 
+
+Owl Labs is over 40% remote and headquarters are based in Boston, MA. This role can be either an on-site or remote position. Please specify in your application. Our team is currently working 100% remote due to COVID-19.
+
+ 
+About the job
+X is Alphabet’s moonshot factory where uncomfortably ambitious, world-changing ideas are developed and taken out into the world. X projects have the potential to transform the lives of billions of people and make the world a radically better place. For X to be successful, we have to repeatedly turn breakthrough technology ideas into products that solve large problems in the world, and create meaningful businesses for Alphabet.
+
+About The Team
+
+We are a moonshot to protect the ocean and feed humanity sustainably. Our initial area of focus is on developing technologies that bring greater visibility and understanding of what's happening under the water. A link to our X blog post on the Tidal project is here .
+
+About The Role
+
+As a Software Engineer, you will design critical components of our software infrastructure. You will work directly with embedded and machine perception SWEs, electrical / mechanical engineers, research scientists and operations on field deployed hardware in harsh environments.
+
+How You Will Make 10X Impact
+Develop embedded Linux software for custom hardware
+Develop real-time software to aggregate sensor data and control actuators
+Integrate cameras, sensors, and motor controllers
+Develop integration and reliability test suites
+
+What You Should Have
+BS in Computer Science, or an engineering field, or equivalent practical experience.
+Strong experience with C++, embedded Linux, and real-time operating systems
+Interest and ability to work at all levels of the software stack - from the embedded real time software to the cloud-based backend
+Appreciation of performance implications of resource constraints (CPU, GPU, network bandwidth, latency)
+Ability to jump to random new tasks in a fast paced project to get things done / learn new things on a daily basis
+
+It’d Be Great If You Also Had These
+Experience with threading/locks/synchronization in a real-time environment
+Experience with performance oriented programming in a resource constrained platform
+Experience shipping end-to-end electronics products
+Experience in distributed systems
+Experience with RPC frameworks such as gRPC
+Experience using lab equipment like multimeters, logic analyzers, and oscilloscopes.
+
+About X, The Moonshot Factory
+
+X creates radical new technologies to solve some of the world’s biggest problems. We develop uncomfortably ambitious, potentially world-changing new ideas such as self-driving cars, balloon-powered Internet and smart contact lenses. We’re a team of makers, entrepreneurs, engineers, designers and scientists with deep technical expertise who love the challenge of the seemingly impossible. We believe that a culture of psychological safety creates the foundation of trust and respect necessary to build moonshots. X was formerly known as Google[x] and is part of Alphabet .
+About the job
+Summary Role
+
+Under direct supervision, participates in software development including design, analysis, preparation, coding and testing of executable code. Assists in writing, modifying and maintaining simpler software programs from manufacturers. May provide bug verification, release testing or beta support. Handles special projects, as assigned.
+
+In this role as an Embedded Software Engineer you will:
+
+Engage in all aspects of product development ranging from system level design and requirements analysis through code development and testing
+Work with NPI and sustaining engineering teams in development and execution of product enhancements, product upgrades, and new product introductions
+Drive continuous improvement initiatives related to embedded product functionality and team processes
+Design using object-oriented techniques and associated languages
+Analyze embedded code to determine root cause of defects and implement corrective action
+Develop systems using real-time embedded operating systems (VxWorks, QNX, etc.)
+Develop and implement embedded software ranging from high-level application to low-level hardware device drivers
+Perform Third Party Review of firmware development code
+
+
+Basic qualifications:|
+
+Bachelor’s Degree in Computer Engineering, Computer Science, Electrical Engineering, or related engineering discipline from an accredited university or college.
+Experience using C/C++ programming language.
+
+
+Desired qualifications:
+
+Experience related to embedded product development.
+Strong oral, written communication and presentation skills.
+Able to work well with global teams, including time-zone flexibility
+Demonstrated skills of C / C++ programming language
+Experience creating an embedded application, deploying to an embedded target, and debugging from an embedded target
+Experience troubleshooting customer issues
+Green Belt certified and DFSS trained
+About the job
+You have a deep passion for elegant software and an inherent fascination with building unique products. You settle for nothing but the most efficient and optimized performance, and you maintain the very highest of standards for user experience. You are June's next Embedded Engineer.
+
+The Embedded & Systems Team at June is responsible for all aspects of BSP and MTP development for all of June’s products. We are developing new lines of products that each have unique requirements, and as a core member of the team you will be responsible for shaping the BSP to enable smart devices of the future. This role will also work closely with the June application developers, as well as hardware team and low-level firmware developers.
+
+You will
+Improve embedded drivers, algorithms, and BSP layers to support new functionality
+Design, implement, debug, and test manufacturing test code for use on the June production line
+Collaborate closely with the Hardware team to develop robust drivers and efficient tests
+Support hardware and software testing at all levels and stages, with appropriately integrated test tools and utilities
+You have
+Bachelor’s degree or higher in Computer Science, Computer Engineering, Electrical Engineering or closely related field
+2 or more years experience working with embedded systems
+Proficiency with C/C++ and Python
+Experience working with RTOSs, device drivers, MCUs and SoCs
+Exposure to high-volume manufacturing environments
+Bonus: experience with Rust
+June is a team of expert engineers, designers and food lovers who are reimagining the modern kitchen. Our first product, the June Intelligent Oven, delivers the convenience of quick, no-guesswork cooking alongside the precision controls and advanced technology that professional chefs need for world-class results. It makes cooking easier, faster and better. Come join our team and help us create the kitchen of tomorrow!
+
+June Life, Inc. participates in the federal government's E-Verify program. With respect to new hires, the E-Verify process is completed in conjunction with a new hire's completion of the Form I-9, Employment Eligibility Verification upon commencement of employment. E-Verify is not used as a tool to pre-screen candidates. For additional information visit the E-Verify website.
+About the job
+Requisition Id 4663
+
+Position Overview
+
+The National Security Sciences Directorate at Oakridge National Laboratory leads scientific and technological breakthroughs to confront some of the nation’s most difficult security challenges. We develop interdisciplinary applications needed for the security of our nation today and target our vision on how these challenges may manifest themselves in a decade or more.
+
+In response to the growing unmanned system (US) market, which has resulted in the proliferation of low-cost, but very capable technologies, ORNL established the Unmanned Vehicle Development Laboratory (UVDL) within the RCAS group. The UVDL has worked to develop the next generation of robust communication technologies as applied to unmanned systems as well as expertise in sensor integration and deployment. This multi-disciplinary team brings experts in their respective fields together to solve pressing national security problems that will directly impact the advancement of ORNL and its national security missions. The aggregation of ORNL’s expertise in the UVDL areas of excellence combined with our infrastructure and qualifications makes ORNL a unique S&T stakeholder in the unmanned systems mission space.
+
+We are currently seeking qualified applicants for an Embedded Hardware/Software Engineer for the creation and implementation of low-level software functionality for use in autopilots and other unmanned systems. The position requires strong skills in embedded Linux, the understanding of object-oriented programming, writing well-formed code following industry standards, and the ability to adapt to other diverse code styles as needed. The position affords the unique opportunity to work with a talented interdisciplinary team of R&D professionals enabling true impact on critical national security missions.
+
+Major Duties And Responsibilities
+
+Partnering with subject matter experts, our engineers solve complex problems through hardware and software solutions including mission-management systems, data collection, materials tracking, and analytical tools. Main job responsibilities for the position include:
+Work on a variety of engineering assignments, collaborating with scientists and engineers, and will be expected to produce reliable software and systems and contribute to publications and funding proposals as needed.
+Programming, testing, documenting, and managing data on new and existing software projects.
+Translating and interpreting user requirements into functional hardware/software using standardized coding techniques.
+Engineering design and implementation of software sub-systems and functionality in autopilots for unmanned systems.
+Creation of new functionality including new flight modes of operation, mode transitions, feedback loops, communication interfaces, protocols, and messaging, failsafes, actuator control and optimization.
+Attend and present design reviews.
+Document designs with comments, reports, descriptions, issue tracking and resolution.
+Develop reusable software and system components and integrate these into existing and new designs.
+Support real-world test operations and develop bench and other test procedures.
+Some travel may be required.
+Work in both classified and unclassified settings and on a wide variety of applied areas.
+Write and participate in research proposals to major funding agencies.
+Present and report research results and publish scientific findings in peer-reviewed journals.
+
+Basic Requirements
+B.S. or equivalent in Electrical Engineering, Computer Science, Physics, Mathematics, or closely related discipline.
+Practical experience writing embedded software for an autopilot or similar robotics application. Competent in embedded Linux, Python and embedded C/C++.
+Comfortable working as part of a team.
+Must possess a strong commitment to ethical and professional values as well as maintain a compliance with environmental, safety, health, and quality standards.
+
+Preferred Qualifications
+
+Demonstrate an understanding of object-oriented programming, writing well-formed code following industry standards and the ability to adapt to other diverse code styles as needed. Excellent verbal and written communication skills, and the ability to work effectively, both independently and as a member of an agile development team is expected.
+Masters or equivalent in Electrical Engineering, Computer Science, Physics, Mathematics, or closely related discipline.
+Fluent in Linux.
+Programming skills in C, C++, and Python.
+Experience with open-source autopilot hardware and software. Experience modifying open-source autopilot software
+Experience writing proposals and developing technical work plans
+Git experience, or equivalent source code management
+Linux kernel and driver development experience
+NVIDIA software experience
+Wireless data transmission experience
+Qt development experience, or equivalent
+Windows, Linux, and mobile OS familiarity
+Web programming experience
+Controls theory and application
+Familiarity with Unmanned Aerial Systems
+Gimbaled and/or mechanized camera systems experience
+Experience with remote controlled aircraft and helicopters
+Excellent communications skills for visualization and presentation of methodology, results, and demonstrations.
+Excellent teamworking ability and the ability to independently identify and solve challenging technical problems.
+
+Special Requirement
+
+This position requires the ability to obtain and maintain a clearance from the Department of Energy. As such, this position is a Workplace Substance Abuse (WSAP) testing designated position. WSAP positions require passing a pre-placement drug test and participation in an ongoing random drug testing program.
+
+Our commitment to diversity: As we strive to become the world’s premier research institution in the sciences and technologies that underpin critical national security missions, we are committed to creating an inclusive environment that highly values a diverse workforce. We recognize that a breadth of perspectives, insights, and experiences are necessary to drive the level of innovation and discovery that is mission critical to national security sciences. Our commitment extends beyond our workforce to the next generation of researchers with STEM education outreach that seeks to engage a diverse range of students.
+
+This position will remain open for a minimum of 5 days after which it will close when a qualified candidate is identified and/or hired.
+
+We accept Word (.doc, .docx), Adobe (unsecured .pdf), Rich Text Format (.rtf), and HTML (.htm, .html) up to 5MB in size. Resumes from third party vendors will not be accepted; these resumes will be deleted and the candidates submitted will not be considered for employment.
+
+If you have trouble applying for a position, please email ORNLRecruiting@ornl.gov.
+
+ORNL is an equal opportunity employer. All qualified applicants, including individuals with disabilities and protected veterans, are encouraged to apply. UT-Battelle is an E-Verify employer.
+About the job
+The coolest jobs on this planet… or any other… are with Lockheed Martin Space.
+
+At the dawn of a new space age, Lockheed Martin is a pioneer, partner, innovator and builder. Our amazing men and women are on a mission to make a difference in the world and every day we use our unique skills and experiences to create, design and build solutions to some of the worlds’ hardest engineering problems. Our culture encourages employees to dream big, perform with excellence and create incredible products. We provide the resources, inspiration and focus and if you have the passion and courage to dream big, we want to build a better tomorrow with you.
+
+Are you looking to develop your career as a Software Engineer? Do you want to be part of a dynamic, fast-moving, high performance team that's creating a best-in-class team culture, all while quickly adapting to ever-changing customer requirements?
+
+The Enterprise Flight Software (EFSW) team is looking for a motivated software engineer to help further strengthen the software infrastructure deployed to spacecraft flight computers. The candidate will be experienced in embedded software development in C and/or C++ with a thorough understanding of principles of object-oriented design and development and with knowledge of embedded software. The role will be responsible for the full software development lifecycle from requirements development through integrated test on flight-like hardware.
+
+To promote the sharing of ideas, Lockheed Martin fosters an inclusive work environment that encourages differences and big-picture thinking.
+
+Here Are Some Of The Benefits You Can Enjoy
+
+Our employees play an active role in strengthening the quality of life where we live and work by volunteering more than 850,000 hours annually.
+Medical
+Dental
+401k
+Paid time off
+Work/life balance
+Career development
+Mentorship opportunities
+Rewards & recognition
+Learn more about Lockheed Martin’s competitive and comprehensive benefits package.
+About the job
+Passionate about writing C code? Lower level? Have the desire to understand down to the bare metal? We Conquer Complexity. If you have relentless desire to understand how things work (especially in an engine), message me.
+About the job
+Behind DEKA’s brick walls sits a team of professionals who strive to make a difference every day through thoughtful engineering, design, and manufacturing. New ideas are always welcome and explored to make the Manchester Millyard a place to create some of the most innovative and life-changing products of our time. Our employees enjoy the benefits of living and working an hour from the beach, Boston, and the mountains, the historic Amoskeag Millyard once housed the largest textile mills in the world. It is now home to DEKA Research and Development, where we are taking same innovation and cutting-edge technology into the modern age.
+
+DEKA develops its talented employees through hands on learning and encourages future engineers through FIRST Robotics. We are proud of this aspect of our culture and are always looking to grow our family at DEKA.
+
+DEKA is recruiting software engineers to join a rapidly growing team where you will have a positive, enduring impact on millions of people worldwide. We are looking for a skilled C++ software engineer familiar with designing and implementing complex software/hardware systems. Who also knows the ins-and-outs of operating systems, memory management, real time control, and developing new technologies.
+
+The ideal candidate works well in a team setting, is technically savvy, has project based experience during school not only designing complex software/hardware systems, but also has put the systems into production, and has experienced customers and non-engineers working with their products.
+
+If you are looking for purpose in your projects and enjoy figuring out technical challenges, identifying options, and coming up with innovative yet simple and elegant solutions, we want to hear from you!
+
+How you will make an impact:
+
+Design, implement and verify operation of embedded software
+Analyze, create and update requirements procedures
+Ensure compliance with the development process
+Solve problems, build products, and make a difference in the world
+To be successful in this role, you will need the following skills and experience:
+
+BS or work equivalent
+1-2 years’ experience with C/C++
+Experience working to and with detailed requirements
+Experience designing software to validate software/hardware systems
+Experience working on embedded systems
+Experience working with operating systems and multi-processor/multi-threaded applications
+Must be able to work in a group environment
+Must have excellent communication skills and attention to detail
+Desired Characteristics:
+
+Experience with medical systems development a plus
+Experience with Git and CI (continuous integration) a plus
+Fearless taking on new technologies and tasks
+
+Powered by JazzHR
+
+6ToIguDC8Z
+About the job
+Superpedestrian is seeking an Embedded Software Engineer to join the embedded software development team. The ideal candidate has strong skills writing embedded software on resource constrained, robotic-like systems. They should also have experience in low-level chip configuration, system time management, sensor sampling/conditioning, and inter-processor communications (CAN, SPI, I2C). Experience with telecom protocols such as Bluetooth, GPRS and LTE; or in motion control implementing motor software for brushless DC motors on a microprocessor is a strong plus.
+
+What you'll do:
+
+Help build our next generation technology by writing code (predominantly in C and python) for embedded targets that service motor control, battery management, and system communication and control.
+Contribute your knowledge and wisdom to the team's development processes and software best practices.
+Collaborate closely with the embedded hardware team to specify module and system requirements and design.
+Design and document software interactions between system modules, cloud services, and mobile applications.
+Contribute to a software quality plan including testing, inspection, and certification.
+Work closely in a small team where personal interactions are critical to timely decision-making and knowledge sharing.
+Participate in ideation for future products and features.
+What we're looking for:
+
+MS/BS CS/EE with 0-4 years of industry experience developing embedded software systems
+Strong fundamentals in embedded C on real-time platforms
+Experience developing software for commercial use
+Familiarity with software product life cycles, including the support of fielded products
+Experience implementing low-level chip functionality and drivers (CAN, I2C, SPI, USB, bootloaders) for embedded systems
+Experience with scripting languages (python, bash)
+Experience with revision control systems (Git)
+Ability to write PC host-based tools and applications to develop, debug, and test embedded systems
+Experience in embedded robotics, motion control applications, or IoT communications
+Additional useful skills:
+
+Software regulatory experience
+Experience with Bluetooth, GPRS, LTE and other telecoms standards
+Electric vehicle experience
+Assembly language skills
+Powered by JazzHR
+
+rvf9GkyKSV
+About the job
+
+About Zipline:
+
+Do you want to change the world? Zipline uses drones to deliver critical and life-saving medicine to thousands of hospitals serving millions of people in multiple countries. Our mission is to provide every human on Earth with instant access to vital medical supplies. Join Zipline and help us make this a reality for billions of people.
+
+Zipline is at the forefront of a logistics revolution, using autonomous aircraft to deliver just-in-time, lifesaving medical supplies on multiple continents, 7 days a week. We believe access to medical care should not depend on your GPS coordinates.
+
+About the Role:
+
+Zipline is looking for experienced Senior Embedded Systems Engineers to create and improve upon a reliable software platform for our autonomous aircraft and ground systems. Engineers come into the office as needed during the pandemic. As public health restrictions are lifted, we are excited to collaborate and innovate together in-person at our office in South San Francisco.
+
+Leading the charge in drone delivery often means exceeding the capabilities of what's available off the shelf, and as a result we are engineering the majority of our system in-house. Inventing new robots and doubling down on the reliability of our systems is the critical path to serving the next 1 Billion people.
+
+To get there, our team will have to:
+
+Refactor and test all the software for our aircraft recovery system
+Design an online battery state of charge estimation algorithm
+Select components for next generation systems
+Run flight controls and perception in real time on embedded linux
+Upgrade message passing interfaces to support a multi-repo strategy
+Implement a real-time failover to a backup flight processor
+Scale our flight software to complete 10,000 life-saving deliveries a day
+And much more!
+
+Tackling these challenges takes more than any one individual. Our goal is to hire multiple exceptional embedded engineers to join our team, which means your specific responsibilities will depend on your skills and interests.
+
+What You'll Bring:
+
+You write quality code fast--Code that is correct, easy to read, tested, with friendly APIs. Quality is important because our systems are controlling large amounts of energy in close proximity to people. Quality is also important because many other software engineers at Zipline build software on top of the foundation that the embedded team sets. "Fast" is important because we are impatient to achieve our mission!
+
+You are excited to leverage code to solve problems that exist in the physical world. Our systems interact directly with the physical world and there often won't be a human nearby to intervene. This means that your software is written with laws of physics and Murphy's law in mind.
+
+You are familiar with the breadth of tools available to embedded systems engineers and pick the right tool for the problem. These include processors, sensors, operating systems, and software libraries. This is important because many problems have been solved already, and picking the wrong tool leads to hampered development and frustration.
+
+You design software that is part of a system. The engineered artifact created by an embedded systems engineer at Zipline is software, but that software is operating as part of a much larger system, whether it be Unix, a cellular network, or a battery management system.
+
+MUST HAVES:
+
+Professional experience building software in RTOS or Embedded Linux
+Fluency writing embedded systems software in C and C++
+Confidence writing simple production-ready Python programs
+Confidence writing peripheral drivers based on an electrical schematic and datasheet
+A habit of augmenting automated tests to verify embedded software. Engineers at Zipline write their own tests!
+Excellent communication (written, verbal, and visual). You know how to tailor to your audience with the right level of technical depth
+
+
+NICE TO HAVES:
+
+Experience implementing and simulating controls and estimation algorithms for dynamic systems (e.g., state space, Kalman filters). We have a lot of moving parts!
+Experience implementing perception on embedded systems
+Experience using message passing frameworks such as LCM or ROS
+A habit of using data analysis to verify embedded software.
+A desire to use (or learn) Rust
+You've deployed safety-critical embedded software
+
+
+The ideal candidate may not have all of the following skills and experience. If any of these apply, you might be a good fit!
+
+WHAT ELSE YOU NEED TO KNOW:
+
+Zipline is an equal opportunity employer and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws or our own sensibilities.
+
+We value diversity at Zipline and welcome applications from those who are traditionally underrepresented in tech. If you like the sound of this position but are not sure if you are the perfect fit, please apply!
+About the job
+Who We Are
+
+Nuro is a robotics start-up whose mission is to accelerate the benefits of robotics for everyday life. We have an elite team of entrepreneurs and engineers, designers, and scientists. We believe AI and robotics are at the cusp of transforming daily life and we are dedicated to building meaningful products with this technology. Join us and play a critical role in our mission.
+
+About The Role
+
+Our robotics team is growing and we are looking for a self-motivated software engineer to help assure the quality of the hardware components of Nuro's robots.
+
+About The Work
+Develop and own in-house software tools to support tests and diagnostics
+Work with the stakeholders of electrical and mechanical modules, e.g. brake, power, optical sensors, to align requirements, build and automate module level and vehicle tests including stress tests
+Develop, automate and maintain software test setup
+
+
+About You
+Good experience with automated test and framework development, execution and maintenance
+Excellent understanding and application of scripting language, such as Python
+Good experience with C++
+Experience with client/server programming
+Good debugging, troubleshooting, and problem-solving skills
+Excellent communication and organizational skills
+Bachelor's degree in Computer Science, Computer Engineering, or closely related field
+
+Bonus Points
+Experience with database applications
+Experience with manufacturing environments and MES (manufacturing data systems)
+System-level knowledge of software and hardware
+
+Nuro is an equal opportunity employer and expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status.
+About the job
+Date Posted
+
+2020-08-25-07:00
+
+Country
+
+United States of America
+Location:
+HIA32: Cedar Rapids, IA 400 Collins Rd NE , Cedar Rapids, IA, 52498-0505 USA
+The Communication Systems directorate makes some of the most cutting edge products across the enterprise and the software group plays a very large role. We develop innovative solutions that keep our military members safe, connected and informed. Our team has some of the most knowledgeable experts in the industry and work with all the most recent technologies in embedded software development.
+
+Our team is looking for an entry-level Software Engineer. As an engineer on our team you will be involved in the development of state-of-the-art communications systems by implementing embedded software communications protocols, security mechanisms, encryption algorithms, and/or platform software for our sophisticated software defined radios that enable pilots and soldiers to transfer data, voice and imagery over the air.
+
+We do a lot of work in C++, C, Python and embedded Linux so an understanding of these areas will help the candidate come up to speed quickly.
+
+Primary Responsibilities
+Software development and integration role on multi-threaded embedded C and C++ product software code bases.
+Support the design and development of embedded software solutions and communications products
+Support project team activities related to the specification of requirements, software implementation, test case development, verification test execution, and certification
+Strive to consistently produce superior results, keeping project milestones on schedule and contributing to a positive work environment
+Desire to successfully work in a team environment, establishing collaborative relationships with coworkers in person and through technology
+
+Basic Qualifications
+Bachelor’s degree OR
+In absence of a degree, 6 years of relevant experience is required
+Must be a U.S. Citizen
+
+Preferred Qualifications
+Comfortable working with C, C++, python and/or Linux
+Some experience coding in an embedded environment
+Security focused mindset
+Familiar with multi-threaded development
+
+Collins Aerospace, a Raytheon Technologies company, is a leader in technologically advanced and intelligent solutions for the global aerospace and defense industry. Collins Aerospace has the capabilities, comprehensive portfolio and expertise to solve customers’ toughest challenges and to meet the demands of a rapidly evolving global market.
+
+Do you want to be a part of something bigger? A team whose impact stretches across the world, and even beyond? At Collins Aerospace, our Mission Systems team helps civilian, military and government customers complete their most complex missions — whatever and wherever they may be. Our customers depend on us for intelligent and secure communications, missionized systems for specialized aircraft and spacecraft and collaborative space solutions. By joining our team, you’ll have your own critical part to play in ensuring our customer succeeds today while anticipating their needs for tomorrow. Are you up for the challenge? Join our mission today.
+
+WE ARE REDEFINING AEROSPACE.
+
+Some Of Our Competitive Benefits Package Includes
+Medical, dental, and vision insurance
+Three weeks of vacation for newly hired employees
+Generous 401(k) plan that includes employer matching funds and separate employer retirement contribution, including a Lifetime Income Strategy option
+Tuition reimbursement
+Life insurance and disability coverage
+Optional coverages you can buy: Pet Insurance, Home and Auto, additional life insurance, accident insurance, critical illness insurance, group legal
+Ovia Health, fertility and family planning
+Employee Assistance Plan, including up to 5 free counseling sessions
+Redbrick - Incentives for a Healthy You
+Autism Benefit
+Doctor on Demand, virtual doctor visits
+Adoption Assistance
+Best Doctors, second opinion program
+And more!
+
+Nothing matters more to Collins Aerospace than our strong ethical and safety commitments. As such, all U.S. positions require a background check, which may include a drug screen.
+
+Note
+Background check and drug screen required (every external new hire in the U.S.)
+Drug Screen only performed on re-hires who have been gone for more than 1 year
+
+At Collins, the paths we pave together lead to limitless possibility. And the bonds we form – with our customers and with each other -- propel us all higher, again and again.
+
+Apply now and be part of the team that’s redefining aerospace, every day.
+
+Raytheon Technologies is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.
+
+Privacy Policy And Terms
+
+Click on this link to read the Policy and Terms
+
+Raytheon is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, age, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.
+About the job
+Job Description
+
+Kearfott Corporation, a global avionics, motion control and navigation supplier for over 100 years, is a leader in the design and manufacture of precision motion control products and inertial control components. Our inertial guidance and navigation systems control military and commercial aircraft, military land vehicles, missiles, marine vehicles, satellites, and space instruments.
+
+We are looking for talented individuals who want to be part of a world class work force. Join Kearfott and become part of a company that is recognized for technical expertise and respected world-wide as a ‘full service’ provider. For more information visit our website at www.kearfott.com.
+
+Software Engineer
+
+Responsibilities
+Develops embedded software for electronic controls for Kearfott's range of electromechanical devices: actuators and brushless DC (BLDC) motors, in the aerospace and defense markets.
+Works with cross functional technical engineering team on ensuring software requirements are full understood and implemented.
+Conducts design, analysis, and test of software subsystems following defined software development processes.
+Performs software development and integration using cross-compilation tool sets and simulation tools as well as hardware instrumentation such as digital logic analyzers.
+
+
+Required Skills
+
+Requirements
+BS/MS in Computer Science.
+0-2 years experience within embedded software engineering. Aerospace, or another high assurance environment preferred.
+Strong communication abilities, both written and verbal, and interpersonal skills.
+Proficiency in C, Python.
+Must be legally authorized to work in the US, visa sponsorship not available.
+Must be a U.S. Citizen or be a U.S. Permanent Residence Card Holder.
+
+
+Equal Opportunity Employer
+
+Minorities/Females/Veterans/Individuals with Disabilities/Sexual Orientation/Gender Identity
+About the job
+Job ID IMS20201611-53142 Date posted 11/17/2020
+
+L3Harris is dedicated to recruiting and developing diverse, high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers’ mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do.
+
+L3Harris Technologies is an agile global aerospace and defense technology innovator, delivering end-to-end solutions that meet customers’ mission-critical needs. The company provides advanced defense and commercial technologies across air, land, sea, space and cyber domains. L3Harris has approximately $18 billion in annual revenue and 48,000 employees, with customers in more than 100 countries.
+
+Description
+
+We are currently seeking a Software Engineer with a strong desire to write embedded software. This individual will have the opportunity to work on cutting edge Infrared Product lines and world-class Space Avionics systems. Sample products you and your team will work on are Space Flight Computers, Counter Drone Protection Systems, and ultra-high speed and ultra-large format Infrared Cameras. This role will be responsible for a variety of software tasks throughout the full lifecycle for designing, coding, documenting, and testing embedded systems. General knowledge of hardware and communication protocols is a plus.
+
+Essential Functions
+Develop embedded software on a mixture of embedded systems for Infrared and Space products
+Integrate, test, and verify software designs
+Creates software documentation related to products (Requirements, Design, Verification, etc.)
+
+Required Competencies/Skills
+Minimum of BS in Computer Engineering, Electrical Engineering, Computer Science or similar with 2 years of experience
+Experience using C and/or C++ to develop software
+Basic knowledge of circuits, schematics, and hardware components
+Excellent verbal and written communication skills
+Demonstrated ability to work as part of a team
+
+Preferred Competencies/Skills
+Experience working with Communication Protocols such as Ethernet, RS232/422, 1553, SPI, etc.
+Experience using C and/or C++ to develop embedded software
+Experience with Real-Time Operating Systems
+Experience using software version control tools
+Experience working with other programming languages such as Python or C#
+Experience in the Defense, Space, Aerospace, or similar industries
+Experience using electronic test equipment such as oscilloscopes, DMMs, and basic lab equipment
+Experience with Linux and Windows Development Environments
+
+Please be aware many of our positions require the ability to obtain a security clearance. Security clearances may only be granted to U.S. citizens. In addition, applicants who accept a conditional offer of employment may be subject to government security investigation(s) and must meet eligibility requirements for access to classified information.
+
+By submitting your résumé for this position, you understand and agree that L3Harris Technologies may share your résumé, as well as any other related personal information or documentation you provide, with its subsidiaries and affiliated companies for the purpose of considering you for other available positions.
+
+L3Harris Technologies is proud to be an Affirmative Action/Equal Opportunity Employer. L3Harris is committed to treating all employees and applicants for employment with respect and dignity and maintaining a workplace that is free from unlawful discrimination. All applicants will be considered for employment without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender (including pregnancy, childbirth, breastfeeding or other related medical conditions), gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, characteristic or membership in any other group protected by federal, state or local laws. L3Harris maintains a drug-free workplace and performs pre-employment substance abuse testing and background checks, where permitted by law.
+About the job
+The Company
+
+Description
+
+Continental Automotive is one of the largest automotive manufacturers in the world and a leader in automated driving. Through our pioneering technologies and services, we’re changing the future of mobility to make it more safe, smart, and sustainable. Our Auburn Hills, MI location is seeking a highly self-motivated and detail-oriented Software Test Engineer to join our Continental Engineering Services (CES) team. The ideal candidate has good knowledge on microcontrollers and real-time applications on embedded systems/vehicle environment.
+
+Are you ready to shape the future with us?
+
+THE POSITION
+Perform a review of software requirements from a test point of view.
+Create SW Test Specifications to cover all SW and/or SYS Requirements.
+Create and perform automation and manual tests.
+SW Configuration Management, processes, and quality compliance.
+Organization and maintenance of test activities.
+Additional Job Responsibilities (based On Project Needs)
+Provide support to application teams for identification of root cause for issues and corrective solutions.
+Support SW Engineers for refinement of specifications
+Support test team during system validation phase.
+Monitor and report requirements / test / implementation traceability.
+Design, develop, and implement cost effective test methods and best practices.
+Design test setups and test cases in order to test the project requirements.
+Create, review and update test specifications and setups in order to ensure 100% coverage of requirements.
+WHY YOU SHOULD APPLY
+Immediate Benefits
+Paid Time Off
+Tuition & Employee Discounts
+Annual Bonus
+Employer 401(k) Match
+And more benefits that come with working for a global industry leader!
+Basic Qualifications
+
+Qualifications
+Bachelor’s degree in Computer Science, Software Engineering, or equivalent.
+2 years of experience with SW testing (white-box testing, black-box testing)
+2 years of experience with test case automation
+2 years of experience in embedded systems
+Ability to read schematics
+Experience programming with one of the following languages: C, C++, Java or C#
+Basic experience in scripting with one of the following: bash, python, VB, Perl
+Experience with communication protocols (e.g. CAN, LIN, SPI, Ethernet, RS232, etc.)
+Experienced with using lab measurement devices (e.g. oscilloscope, power supply, multimeter, etc.)
+Can work both independently and in a team environment
+A mindset for continuous quality and efficiency improvements
+Determines own priorities and may deviate from established procedures and practices as long as results meet standards of acceptability (e.g., volume, quality, timeliness, accuracy)
+Travel may be required depending on project involvement (typically in Metro Detroit Area).
+Preferred Qualifications
+ISTQB awareness
+Proficient in C#
+Good knowledge of microcontrollers and real-time applications on embedded systems/vehicle environment
+System testing experience
+Test experience with Bluetooth, RF, or WiFi
+Basic knowledge of cryptography and cybersecurity
+EEO Statement
+
+EEO / AA / Disabled / Protected Veteran Employer. Continental offers equal employment opportunities to all qualified individuals, without regard to unlawful consideration to race, color, sex, sexual orientation, gender identity, age, religion, national origin, disability, veteran status, or any other status protected by applicable law. In addition, as a federal contractor, Continental complies with government regulations, including affirmative action responsibilities, where they apply. To be considered, you must apply for a specific position for which Continental has a current posted job opening. Qualifying applications will be considered only for the specific opening(s) to which you apply. If you would like to be considered for additional or future job openings, we encourage you to reapply for other opportunities as they become available. Further, Continental provides reasonable accommodations to qualified individuals with a disability. If you need assistance in the application process, please reply to Careers@conti-na.com or contact US Recruiting at 248.393.5566. This telephone line and email address are reserved solely for job seekers with disabilities requesting accessibility assistance or an accommodation in the job application process. Please do not call about the status of your job application, if you do not require accessibility assistance or an accommodation. Messages left for other purposes, such as following up on an application or non-disability related technical issues, will not receive a call back.
+About the job
+Cobham is seeking an Embedded Software Engineer that will work with a small dedicated group of other software engineers to bring to life a systems responsible for providing internet and television connectivity to the maritime community. This position is located in Concord, CA.
+
+Key Responsibilities
+Develop and document code for use on a three axis stabilized antennas. The antennas range in size from 0.6 meters to 4.3 meters. Software is used to stabilize the antenna, identify the target, control the RF radio mounted to the antenna, and interface with the modems to ensure connectivity.
+Fulfill the critical role of implementing the new features that our customers demand.
+Work closely with the electrical engineers, test engineers, system engineers, and production engineers to realize challenging requirements.
+Work closely with the production floor to gain valuable feedback from actual systems shipping to customers. Software developers are integral to the troubleshooting process and work with test engineers to resolve bugs.
+Fix and maintain embedded code written in C.
+Support bare metal drivers at the chip level and complicated protocol requirements.
+Software work on SeaTel products is full of engaging challenges as the product line allows for many different customer variations. Time is spent making the code re-usable and flexible for the next challenge.
+Program in Perl, C#, LabView, JavaScript, CSS, HTML, etc, in addition to the majority of the development which is in C.
+
+Minimum Requirements
+Bachelor's degree in Computer Science, Mechanical Engineering, Electrical Engineering, etc.
+Minimum 1 years of strong embedded software experience.
+Experience developing software applications in C & C in a real time environment.
+Knowledge of device drivers, BSPs and real time OS concepts.
+Knowledge of Linux device driver and application development.
+Knowledge of TCP/IP, multithreading, SPI, I2C, GPIO, Serial, USB and CAN bus.
+Scripting in Python or Perl.
+Knowledge of PID and control system concepts.
+This position requires access to technology, materials, software or hardware that is controlled by export laws of the US. In order to be eligible you must be either a US Citizen or Permanent Resident
+
+Preferred Qualifications
+Master's degree.
+Working knowledge of VSAT technology and communication beneficial.
+Knowledge of TCP/IP, multithreading, SPI, I2C, GPIO, Serial, USB and CAN bus.
+Knowledge of SMX RTOS desired.
+Experience utilizing popular development tools including Bugzilla and Subversion.
+Working knowledge of VSAT technology and communication.
+Knowledge of Oscilloscope/Logic Analyzer.
+Experience with Windows programming.
+Experience with Web programming including HTML, CSS, JavaScript, JSON, AJAX,CGI.
+Experience in real time environments along with some web development experience.
+
+Cobham's values of Trust, Talent and Technology have driven us from our launch in 1934 by Sir Alan Cobham, an aviation innovator, to becoming a global leader in state-of-the-art aerospace and defense systems. And it's the insights of our innovators today that will secure our collective future. Innovators like you.
+
+Cobham is one of the world's leading companies engaged in the development, delivery and support of leading-edge aerospace and defense systems in the air, on land and at sea. Our clients and partners trust Cobham to deliver the mission-critical technology they need, and we trust our employees to draw on their ingenuity and passion to deliver those solutions. This leads to an empowering culture for our people. Our Leadership team is open, sharing plans for the next five years, driving retention by offering demanding, exciting work, and providing full guidance and mentoring.
+
+Cobham is an Equal Opportunity/Affirmative Action Employer and embraces diversity in our employee population. It is the policy of Cobham to provide equal opportunity to all qualified applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status, or genetic information. Cobham will refrain from discharging, or otherwise discriminating against, employees or applicants who inquire about, discuss, or disclose their compensation or the compensation of other employees or applicants.
+
+To see all of our latest opportunities and for consideration please visit www.cobham.com/careers
+
+Follow us on our LinkedIn page at www.linkedin.com/company/cobham
+About the job
+Job Description
+
+Keysight Technologies (formerly Agilent Technologies and Hewlett Packard earlier) is the premier electronic test and measurement company focused on high growth, global markets in the communications, electronics, and test software industries. If you use cell phones, tablets, PC's, cloud networks, or drive a modern automobile for example, then chances are Keysight test equipment have been critical to proving out those designs and testing them in their manufacturing process.
+
+As a software development engineer, you will be part of an R&D team located in Colorado Springs, Colorado that is responsible for the development of Infiniium Oscilloscopes. You will apply your coursework to interesting and challenging hands-on projects. In this position you will work closely with and learn from both new and experienced engineers to understand requirements and functionality in order to develop hardware controlling software that will exercise and validate sophisticated embedded applications. Working with team members, and under the direction of the team's architect, you will be responsible for owning the development or enhancement specific area of product software.
+
+Job Qualifications
+
+Musts
+New college graduate with Bachelor or Masters Degree in Computer Engineering, Electrical Engineering or Computer Science
+Experience with a high level object oriented programming language such as C++.
+Must have experience via course work or previous internships in developing a significant software application.
+Strong written and verbal communication skills.
+Strong problem solving skills.
+Excellent teamwork skills.
+Self-starter. Willing and able to quickly learn new applications and technologies.
+Desired
+Experience with designing and analyzing electronic circuits.
+Completion of one or more Software Engineering Courses
+
+Job Function
+
+R&D
+
+___________________________________________________________________________________
+
+Careers Privacy Statement
+
+***Keysight is an Equal Opportunity Employer.***
+
+Keysight Technologies Inc. is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other protected categories under all applicable laws.
+
+Candidates can be considered to work from the following locations:
+
+Americas : United States : Colorado : Colorado Springs
+
+Job ID : 39237
+
+Colorado Pay Range: $74,670 - $124,000
+
+Based on experience, education and skills, most offers will be between the minimum and the midpoint of the Salary Range listed above.
+About the job
+Robotic Research,  a leader in self-driving cars and trucks, is looking for engineers to join our team, developing cutting-edge technologies in the field of Autonomous Systems.
+
+Job Summary: Robotics Software Engineer to support development of autonomous, unmanned systems, with specific focus on software development, and especially use of C/C++. Multiple positions available, entry to mid-level. Software will support autonomous navigation, path planning, sensor processing, perception and intelligent control for ground vehicles ranging from 20 pounds to 25 tons.
+
+Duties include: Design and implement software using C/C++ in a Linux environment. Develop/improve algorithms for data processing and intelligent control of unmanned vehicles and sensor systems. Document activities, prepare technical reports, present results, and demonstrate system capabilities. Travel for field tests and project meetings may be required. Testing in outdoor conditions may be required.  
+
+Qualifications:        
+A highly qualified candidate will have the following:
+·         Strong programming ability in C/C++
+·         Familiarity with development in a Linux environment
+·         Knowledge and hands-on experience with algorithm and software development applied to robotics is strongly desired. Desired areas of experience include:
+o   Sensor processing (LIDAR, cameras, RADAR, inertial, etc.)
+o   Computer Vision and Deep Learning
+o   Path planning
+o   Localization/navigation algorithms
+o   SLAM
+·         Candidate should be a self-motivated, flexible team player with good written and oral skills, able to work effectively in a fast-paced environment
+
+U.S. citizenship required.  Ability to pass a government security clearance investigation and background check a must.
+
+An Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+ 
+About the job
+FutureSoftIT is looking for a qualified Robot Programmer/Robotics Engineer for a permanent role based out of Greer, SC.
+
+What You Will Be Doing
+Programming industrial robots from scratch and writing complex robot software
+Loading completed programs into the robots/controllers and configuring I/O
+Installing, debugging, commissioning, and ongoing production support on-site at client facilities
+Path teaching and vision teaching
+Performing robotic simulations or robotic stations cells using various types of robotic simulation software
+
+
+Required Experience/Skills/Qualifications
+Strong and recent background in KUKA robots. Experience in FANUC and/or ABB is a plus.
+Ability to perform Advanced Programming with KUKA robots.
+Must be proficient with Robotic Path Teaching.
+Experience setting up various robot communication protocols (i.e. DeviceNet, Profibus, ProfiNet, Ethernet IP).
+Able to read Electrical and Pneumatic schematics and blueprints.
+Strong Electrical troubleshooting skills.
+
+
+Additional Preferred Experience
+Robotic Simulation Experience.
+Experience with Vision Systems.
+Ability to do basic/intermediate programming in other programming languages (i.e. Visual Basic, C or C++ language).
+Troubleshooting experience with PLC programs.
+Ability to draw/update electrical prints.
+
+
+Required Education/Training
+An Associate’s or Bachelor of Science degree in Electrical Engineering, Electrical Engineering Technology, Industrial Automation, Mechatronics, or a related field
+Equivalent field/on-the-job experience will be considered in lieu of a degree
+
+
+Travel Requirements
+This position will require frequent travel to client facilities to complete robotic system installs, start-ups, commissioning, debugging, and ongoing production support
+Candidates must be willing to travel domestically and internationally 50-75% of the year and have a valid passport or the ability to obtain a passport
+
+FutureSoftIT is looking for a qualified Robot Programmer/Robotics Engineer for a permanent role based out of Greer, SC.
+
+Travel Requirements
+This position will require frequent travel to client facilities to complete robotic system installs, start-ups, commissioning, debugging, and ongoing production support
+Candidates must be willing to travel domestically and internationally 50-75% of the year and have a valid passport or the ability to obtain a passport
+About the job
+Aurora Overview
+
+Bringing self-driving vehicles to our roads is the most transformative opportunity of our generation. Aurora is taking a fresh start with the development of self-driving technology, combining excellence in AI, rigorous engineering, and a team with decades of experience building robots that work.
+
+Led by a team of seasoned experts, our mission is to deliver the benefits of self-driving technology safely, quickly, and broadly. We are designing the software and hardware to power the transportation of our future that will make our roads safer, give more people access to mobility, and reduce congestion and pollution in cities - improving the quality of life for all. The challenge in what we are endeavoring to achieve is transcendent; we are developing perhaps the world's most complex computing system and asking it to perform the task of transporting and keeping safe our most precious asset: human life.
+
+Aurora hires people who are excited to build the future of transportation. We are searching for researchers and software engineers who are passionate about designing and deploying state-of-the-art computer vision and machine learning algorithms for autonomous driving.
+
+Responsibilities
+
+You will have the opportunity to work on different parts of the team’s responsibilities depending on your interests and experience, including object detection, classification, tracking, state estimation, scene understanding, sensor fusion, etc.
+Research and develop cutting edge machine learning algorithms for the online Perception system
+Guide the development of these algorithms from prototype to production - including training on large scale datasets, and deploying on a real time robotic platform
+Design, build and maintain large scale production machine learning pipelines
+
+
+Essential
+PhD/MS/BS in Robotics, Machine Learning, Computer Science, or a related field
+Excellent C++ programming and software design skills
+Strong grasp of fundamentals: linear algebra, discrete and continuous optimization, supervised and unsupervised methods, generative and discriminative methods
+
+Desirable
+3+ years of relevant industry experience
+Experience with perception sensors including LIDAR, radar, and cameras
+Expertise in one or more focus areas: deep learning, online learning, sequential prediction, graphical models, structured prediction, sequential models, reinforcement learning, imitation learning, planning under uncertainty, Bayesian inference, model compression, multi-task learning, forecasting etc.
+
+Working at Aurora
+
+Our work has real purpose. Delivering the benefits of self-driving will save lives around the world, expand access to transportation, revitalize cities, and give people time back every day.
+
+We’re one team. We’re inspired by the challenge of what we’re solving and the impact our work will have on society. Our camaraderie is built on respect for our work and the fundamental belief our success will be a result of working together.
+
+The Founding Team
+
+Aurora has assembled the most experienced leadership team in the space. Chris Urmson helped lead Carnegie Mellon’s efforts in Darpa’s Grand Challenges, then was a founding member of Google’s self-driving team. Sterling Anderson worked on the tech at MIT before leading Tesla’s Autopilot system. Drew Bagnell, also a Carnegie Mellon alum, is a machine learning expert who helped build Uber’s autonomy effort. At Aurora, these three continue to bring experts from all areas of the industry to the team. We are funded by Amazon, T Rowe Price, and some of Silicon Valley’s best venture capital firms, including Sequoia, Greylock and Index Ventures.
+About the job
+As a Robot Test Engineer at Simbe Robotics you will be a leader in a talented team of roboticists working on Tally -- our fully autonomous mobile robots for retail inventory scanning.
+
+In this role, you will be responsible on-going testing of our robot hardware and software.
+
+About This Role
+Assist with ongoing QA testing and develop streamlined processes to both capture issues and efficiently test the complete robotic system.
+Evaluate results of testing and highlight areas for improvement.
+Develop automated and semi-automated test capabilities for the robots and new feature releases (automatic charging and barcode scanner testing), and assist with the testing of those features.
+Help develop a robust management system for test resource allocation (test space, robots, servers, test equipment).
+Work closely with the product development team for any ongoing prototyping or validation needs.
+About You
+B.S in Computer Science, Mechanical, Electrical, or relevant engineering degree.
+Exposure to SW development concepts, programming languages (C++ and Python).
+Experience with basic HW design, fabrication techniques, mechanics of materials.
+Experience performing tests on physical systems.
+Strong analytical reasoning, organizational, communication, and prioritization skills.
+Experience with ROS (Robot Operating System) and Linux.
+Experience with building test fixtures and automated testing routines
+About the job
+At RightHand Robotics, we have a rapidly growing and highly capable engineering team building robotic piece-picking solutions and deploying them around the globe. Our product has to be reliable enough to run non-stop on fleets of robots in the world's largest warehouses. If you're simultaneously excited and a bit terrified about what this could mean for you, good! If working hands-on with robots on a daily basis intrigues you, read on!
+
+We are looking for an experienced software engineer to develop critical systems software for robots running in the field. This individual will work closely with our team of researchers to integrate state-of-the-art algorithms into our robot while preserving stability, consistent APIs, and system speed. A minimum of 2 years experience in software development required.
+
+You will:
+
+Design, develop, implement, and maintain key software components
+Collaborate with other engineering teams to deploy solutions to address customer needs
+Debug complex, real-time, multi-process systems
+
+You have:
+
+2+ years of Python development experience
+1+ years working in a Linux development environment
+Experience with software development tools (version control, automated testing, build tools)
+BS in Computer Science, Software Engineering or equivalent
+Excellent written and verbal communication skills
+
+Bonus:
+
+Experience with robot middleware and messaging layers
+Experience in C/C++
+Debian package management, CMake
+Experience in Computer Vision and Machine Learning
+Linear Algebra and Geometry skills
+Experience with Cloud Infrastructure
+
+We offer:
+
+Passionate and fun teammates
+Flexible vacation and work schedule
+401(k)
+Generous premium coverage for medical and dental plans
+Robots, galore!
+
+
+RightHand Robotics (RHR) is an Equal Opportunity Employer. We have an ongoing commitment to the creation of a workplace free of discrimination and harassment. RHR recruits, hires, trains, and promotes individuals in all job titles without regard to race, color, sex, religion, ancestry, sexual orientation, gender identity, national origin, age, physical or mental disability, pregnancy, veteran status, marital status, genetic information, height, weight, or any other status protected by federal, state or local law. At RHR, we are committed to a fair and equitable workplace where everyone is a respected and a valued member of the team.
+About the job
+SafeAI is a Silicon Valley based technology company powered by a founding talent team with experience across Apple, Ford, and Caterpillar. The company’s focus is on autonomous vehicle technology, designed and built specifically for heavy equipment used in the mining and construction industries. At SafeAI we believe that applying advances in autonomy and artificial intelligence to mining and construction can do a lot to not only make work sites safer, but also increase efficiencies and boost productivity.
+
+Key Responsibilites
+Architect and implement control strategies for off-road autonomous vehicles such as longitudinal control and lateral control
+Develop controls software, tune controllers, and evaluate controller performance
+Work on the mechatronics integration of drive-by-wire vehicles.
+Develop simulation tools and verification strategies for safety-critical control algorithms
+Test and verify motion control functionality, both in simulation and in vehicles
+Work with the validation team on establishing test cases for control functionality
+Collaborate with the planning team to design interfaces between planning and control
+Minimum Qualifications
+Bachelor's degree in Mechanical Engineering, Electrical Engineering, Robotics, Computer Science, or equivalent experience working with autonomous vehicles
+Background in classical and modern control theory (MPC, LQR, PID, etc.)
+Extensive software development experience in C++ and Python
+Familiarity with robotics middleware such as ROS and ROS2
+Understanding of vehicle dynamics/kinematics and automotive sensors and actuators
+Preferred Qualifications
+Hands-on experience in deploying controls algorithms in real hardware
+Knowledge of designing high-level controls algorithms and prototyping in simulations
+Experience with vehicle drive-by-wire interface such as CAN protocols
+Knowledge of parameter estimation and system identification
+2+ years of experience in working on vehicle dynamics and controls
+Ph.D. or research background in vehicle dynamics and controls
+
+What We Offer
+
+Competitive Compensation Package, Including Stock Options
+Medical, Dental and Vision Benefits for Employee and Dependents
+401(k) Plan
+Flexible Spending Accounts (FSA)
+Health Savings Accounts (HSA)
+Commuter Benefits Program
+Employer-Paid Life, Personal Accident and Disability Insurance
+Voluntary Life and Personal Accident Insurance
+Employee Assistance Program
+Adoption Assistance Program
+Flexible Vacation Policy
+Fitness Center on Site
+Learning and Development Programs
+Community Snacks and Beverages
+Company-Sponsored Events
+
+We are an Equal Opportunity Employer M/F/D/V/SO and a great place to work.
+
+Thank you for considering this opportunity at SafeAI. If this role sounds exciting, we would like to hear from you!
+About the job
+Date Posted
+
+2021-01-15-08:00
+
+Country
+
+United States of America
+Location:
+HTX36: Richardson, TX 3200 E Renner Rd , Richardson, TX, 75082-2402 USA
+Position overview
+
+Primary Responsibilities
+Conducts technical planning, system integration, verification and validation, and evaluates alternatives including cost and risk, supportability and other analyses.
+Collects data and performs standard analysis of data, identifying findings as appropriate.
+Conducts engineering processes using standard work, including verification and qualification procedures.
+Seeks to identify possible problems presented in applicable projects that may cause a delay or exceed budget. Contributes to finding appropriate solutions.
+Performs analysis at all levels of the total system product including concept, design, fabrication, modeling, test, installation, operation, maintenance and disposal.
+Performs technical planning, system integration, verification and validation, cost and risk, and supportability and effectiveness analyses for total systems.
+Considers and evaluates alternatives accounting for similar metrics.
+Manages configuration process, performs functional analysis, timeline analysis, detail trade studies, requirements allocation and interface definition studies to translate customer requirements into hardware and software specifications.
+Ensures the logical and systematic conversion of product requirements into total systems solutions that acknowledge technical, schedule, and cost constraints.
+Performs architectural exploration.
+Decomposes customer specifications and system level requirements into sub-system and piece part requirements, and generates verification criteria and plans for the requirements.
+
+Basic Qualifications
+Bachelor’s degree OR
+In absence of a degree, 6 years of relevant experience is required
+Must be a U.S. Citizen
+Must have or be capable of obtaining a US Department of Defense (DoD) security clearance. Candidate selected will be subject to a government security investigation/reinstatement and must meet eligibility requirements
+
+Collins Aerospace, a Raytheon Technologies company, is a leader in technologically advanced and intelligent solutions for the global aerospace and defense industry. Collins Aerospace has the capabilities, comprehensive portfolio and expertise to solve customers’ toughest challenges and to meet the demands of a rapidly evolving global market.
+
+Do you want to be a part of something bigger? A team whose impact stretches across the world, and even beyond? At Collins Aerospace, our Mission Systems team helps civilian, military and government customers complete their most complex missions — whatever and wherever they may be. Our customers depend on us for intelligent and secure communications, missionized systems for specialized aircraft and spacecraft and collaborative space solutions. By joining our team, you’ll have your own critical part to play in ensuring our customer succeeds today while anticipating their needs for tomorrow. Are you up for the challenge? Join our mission today.
+
+WE ARE REDEFINING AEROSPACE.
+
+Some Of Our Competitive Benefits Package Includes
+Medical, dental, and vision insurance
+Three weeks of vacation for newly hired employees
+Generous 401(k) plan that includes employer matching funds and separate employer retirement contribution, including a Lifetime Income Strategy option
+Tuition reimbursement
+Life insurance and disability coverage
+Optional coverages you can buy: Pet Insurance, Home and Auto, additional life insurance, accident insurance, critical illness insurance, group legal
+Ovia Health, fertility and family planning
+Employee Assistance Plan, including up to 5 free counseling sessions
+Redbrick - Incentives for a Healthy You
+Autism Benefit
+Doctor on Demand, virtual doctor visits
+Adoption Assistance
+Best Doctors, second opinion program
+And more!
+
+Nothing matters more to Collins Aerospace than our strong ethical and safety commitments. As such, all U.S. positions require a background check, which may include a drug screen.
+
+Note
+Background check and drug screen required (every external new hire in the U.S.)
+Drug Screen only performed on re-hires who have been gone for more than 1 year
+
+At Collins, the paths we pave together lead to limitless possibility. And the bonds we form – with our customers and with each other -- propel us all higher, again and again.
+
+Apply now and be part of the team that’s redefining aerospace, every day.
+
+Raytheon Technologies is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.
+
+Privacy Policy And Terms
+
+Click on this link to read the Policy and Terms
+
+Raytheon is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, age, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.
+About the job
+Job Description
+
+See what you’re missing. Electronic Combat Solutions has technology, engineering and program teams that educate and mentor colleagues to deliver leading Electronic Warfare capabilities. We welcome all those who have big ideas, crave innovation, want to drive fielding velocity and have the passion to bring the warfighter home safe. With a 9/80 schedule, and every other Friday off, our flexible work environment provides you a chance to change the world without giving up your personal life. We put our customers first – exemplified by our mission: “We Protect Those Who Protect Us®.” Sound like a team you want to be a part of? Come build your career with BAE Systems.
+
+Electronic Combat Systems is looking for a systems engineer to contribute to the technical development on a program within our defense portfolio. As a Systems Engineer, you will work as part of a cross-functional, multi-disciplinary team to design, integrate, debug, and test our Electronic Warfare systems. Focused on delivering innovative Electronic Warfare solutions through the lifecycle of system development which includes requirements development, design analysis, and integration & test.
+
+Please note that pursuant to a government contract, this specific position requires US citizenship status
+
+Required Education, Experience, & Skills Bachelor's Degree and 6 years work experience or equivalent experience
+
+Must have experience in a technical discipline (software, hardware, systems)
+Must have experience developing a product
+Must be able to demonstrate ability to work both independently and in a team environment
+Must possess an Active Secret ClearancePreferred Education, Experience, & Skills Experience with decomposing/deriving requirements
+Experience with integration and test
+Exposure to technical performance measurements
+Exposure to identifying technical risksAbout BAE Systems Electronic Systems BAE Systems Electronic Systems is the global innovator behind game-changing defense and commercial electronics. Exploiting every electron, we push the limits of what is possible, giving our customers the edge and our employees opportunities to change the world. Our products and capabilities can be found everywhere – from the depths of the ocean to the far reaches of space. At our core are more than 14,000 highly talented Electronic Systems employees with the brightest minds in the industry, we make an impact – for our customers and the communities we serve.
+About the job
+Details
+
+A Systems Engineer job working Seattle, WA is currently available through Belcan. To be considered for this role, you will work with various teams on testing the updates and ensuring there are no performance or functionality problems. Follow runbooks for daily team actions including troubleshooting, testing and deploying, but also updating those runbooks when there needs to be a change either for them being out of date or incorrect. Work with Security Engineering teams for implementing policy and permissions changes associated with the agent fleets.
+
+Description
+
+REQUIRED SKILLS
+Familiarity with any modern scripting language (Python, Bash, etc.)
+Familiarity with Unix operating systems (Mac/Linux):
+macOS experience beyond normal day to day usage: Understands how to use a shell and command line tools/interfaces to accomplish tasks
+Familiarity with continuous integration and continuous deployment systems
+Required Skills
+Familiarity with any modern scripting language (Python, Bash, etc.)
+Familiarity with Unix operating systems (Mac/Linux):
+macOS experience beyond normal day to day usage: Understands how to use a shell and command line tools/interfaces to accomplish tasks
+Familiarity with continuous integration and continuous deployment systems
+Preferred Skills
+Prior Lab Management experience (up to 2 years)
+Has dealt with Power/Network/HVAC and general Lab/Rack space issues.
+Rack hardware install and cabling experience
+Basic Networking experience: know the difference between static/dynamic IP"s and why you would use one vs. the other
+Experience working with Android/FireOS and iOS
+If you are interested in this job, please apply via the 'apply now' link provided. Belcan is a leading provider of qualified personnel to many of the world's most respected enterprises. We offer excellent opportunities for contract/temporary, temp-to-hire, and direct assignments in the engineering, IT, and professional fields. We are the employer of choice for thousands worldwide. Our overriding goal is to provide quality staffing solutions that help people, organizations, and communities succeed. Belcan is a team-driven Equal Opportunity Employer committed to workforce diversity. For more information, please visit our website at http://www.belcan.com.
+About the job
+General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high performance team!
+
+General Dynamics is an Equal Opportunity/Affirmative Action Employer that is committed to hiring a diverse and talented workforce. EOE/Disability/Veteran
+
+ 
+
+Bachelor’s degree in systems engineering, a related specialized area or field is required (or equivalent experience). Agile experience preferred.
+
+ 
+
+Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.
+
+ 
+
+Help make the technologies, products and services that make a difference. That’s the opportunity that’s waiting for you at General Dynamics Mission Systems. We help our nation’s heroes keep our nation safe by creating solutions so advanced, they redefine innovation for the world. It’s an amazing challenge. And it’s waiting for you now.
+
+Working successfully within a team in support of NASA missions, the Systems Engineer will participate in requirements analysis, requirements management, functional analysis, performance analysis, system design, trade studies, systems integration and test (verification) in the development and evaluation of networks and information systems.
+
+
+
+What you’ll experience:
+Working side by side with experienced General Dynamics engineers, supporting cutting edge NASA space missions 
+A team of bold thinkers committed to exploring what’s next
+Opportunities to gain new knowledge - as it’s discovered
+What you bring to the table:
+A Bachelor’s degree in systems engineering, a related specialized area or field is required; Agile experience preferred
+Clear understanding of systems engineering concepts, principles and theories
+Familiarity with technical standards
+What sets you apart:
+Creative thinking with the ability to multi-task
+Ability to quickly grasp and apply new information
+Strong initiative and professionalism on projects with increasing complexity
+Commitment to ongoing professional development
+About the job
+Systems Engineer
+
+Washington DC
+
+Do you want to make a real difference in the world? At Architecture Technology Corporation (ATCorp), we do and we love doing it!
+
+We believe in having a positive impact on people's lives. We accomplish this by working on state of the art technologies, like, real time large-scale projects for the Federal Aviation Administration (FAA). Our work help keep our nations skies safer!
+
+Our team in Washington DC is currently looking for the best problem solvers.
+
+Are you a creative problem solver?
+
+Are you the one your friends come to you for advice?
+
+Are you the one your friends turn to when they need help settle an argument?
+
+If you answered yes, we want to talk to you!
+
+Did you know, our Systems Engineers are appearing on patents and are
+
+writing the white papers that their peers are reading.
+
+Who we are looking for:
+
+Individuals who work independently, who are creative problem solvers, who don’t rely on Google to have all of the answers. We need individuals who think outside the box, who use cutting-edge ideas. If wearing headphones and jamming out at your desk is your idea of a good time, our team based, client centered work environment isn’t for you.
+
+Our Systems Engineers assist the FAA in making strategic decisions that directly impact air travel across the entire United States.
+
+Qualifications:
+
+Bachelors Degree in; Computer Science, Electrical Engineering, Computer Engineering, Software Development, Aerospace Engineering or related field
+A team leader with exceptional communication skills
+An expert in client relations
+If you are ready to do something BIG we want to talk to you!
+
+Why work with us?
+
+First, we don’t just talk about our great work life balance and work culture, we truly live it. For the last seven years, we have won the When Work Works Award. In 2018, we were one of only ninety seven companies in the US who received the When Work Works Award. When Work Works, recognizes employers that excel at offering a variety of employee initiatives such as work-life fit policies, flexible scheduling and transition to parenthood programs. Two-thirds of an organization’s winning score is based on a survey of its employees. In short, our employees love working here.
+
+Second, our benefits package is great! We offer; Award Winning Work Place, 40 Hour Work Week, Flexible Work Schedule, Competitive Pay ($65K - $150K), Generous Paid Time Off (PTO), Floating Holidays, Paid Holidays, Extended Leave Bank (ELB) (can be used for Paternity leave), 401(k) with employer matching, Health and Dental Insurance, Flexible Spending Account (FSA), Fitness Discounts, Long Term Disability (LTD), Short Term Disability (STD), Life Insurance, Jury Duty Pay, Bereavement Pay, Pet Bereavement Pay, Employee Assistance Program and Relocation (where applicable).
+
+Work Authorization/Security Clearance:
+
+This contractor and subcontractor shall abide by the requirements of 41 CFR
+60-1.4(a), 60-300.5(a) and 60-741.5(a). These regulations prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities, and prohibit discrimination against all individuals based on their race, color, religion, sex, sexual orientation, gender identity or national origin. Moreover, these regulations require that covered prime contractors and subcontractors take affirmative action to employ and advance in employment individuals without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status or disability.
+
+Candidates will be required to pass a background check. Per government contract requirements, candidates for these positions must be a citizen of the United States or an alien lawfully admitted for permanent residence.
+
+Systems Engineer
+
+Reports to Technical Director
+
+Job summary:
+
+Design and or innovate new idea and technologies
+
+Programming and research
+
+Confirms product performance by designing and conducting tests
+
+Extensive regular contact with assigned project clients
+
+Participating in client/contractor meetings and resolving client/engineering and management project issues
+
+Creating system and software architectures
+
+Developing, testing, and deploying software
+
+Large-scale Software Systems Integration and test
+
+Building commercial products
+
+Conduction research and development
+
+Providing customized consulting services
+
+Application of systems analysis techniques and procedures
+
+Determine hardware, software or system functional specifications
+
+Assist in achieving project goals
+
+Work with multiple projects
+
+Interface with various departments
+
+Other jobs as assigned by supervisor
+
+Abilities Required
+
+Self-starter, able to drive projects to completion in circumstances where little guidance and support is available
+
+Knowledge of Microsoft Office
+
+Must play well with others
+
+Status: Full-time, Exempt
+
+Disclaimer - The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified. All personnel may be required to perform duties outside of their normal responsibilities from time to time, as needed.
+
+Powered by JazzHR
+
+oC9QBqJEY6
+About the job
+Description
+
+Description
+
+NEW GRADS
+
+At Enphase, we think big. We’re on a mission to bring solar energy to the next level, one where it’s ready to meet the energy demands of an entire globe. As we work towards our vision for a solar-powered planet, we need visionary and talented recent graduates to join our team as Systems Engineers.
+
+We are looking for broad skill sets - engineers interested and capable of contributing on several of many possible topics. These include embedded software, bare metal firmware, hardware design, control systems, test automation, system requirements and architecture, wireless communication, and others.
+
+We are a values driven company and we are committed to innovation, quality and responsibility. If these are your values, too, you could be the next to join us on our quest for a more sustainable planet.
+
+Responsibilities
+
+Address system-level challenges for Enphase's microgrid products
+
+Focus on system-level control design
+
+Software implementation, testing, and requirements definitions
+
+Minimum Qualifications
+
+BS, MS, or Ph.D. in a relevant engineering major, such as electrical, computer, mechanical, software, or a formal systems engineering program.
+
+Technical Capabilities or Experience in some or many of the following:
+
+IoT experience, including cloud backends
+
+Wireless – Zigbee, Sub GHz, Bluetooth
+
+MCU working knowledge (programming boards, using bootloaders, register maps, map files, read schematics)
+
+Programming – C, C++, and/or Python
+
+Precise documentation skills - attention to detail
+
+Communication protocols – IP, SPI, UART, etc.
+
+Bench skills - lots of hands-on experience, likes to experiment and tinker
+
+Knows at least a little about a wide variety of related topics
+
+What would make you stand out?
+
+Integration of communication protocols, such as Zigbee, Bluetooth, BLE, WiFi, and power line carrier
+
+Solar, energy storage, and microgrid products
+
+Electrical grid knowledge/coursework
+About the job
+Near Earth Autonomy is looking for Robotic Systems Engineers to implement and deploy solutions for aerial mobility and inspection applications. This is primarily a software-oriented position, including frequent communication with algorithm designers and software engineers. You will provide input to electrical and mechanical engineers and understand their resulting designs; once the hardware is produced, work will typically be with the software portion of the system.
+
+This is a hands-on role. You are expected to attend flight tests; most of these are local to the Pittsburgh area, while travel outside the area will occasionally be required. You are expected to work closely with the system and be comfortable analyzing data. You will be a part of the team building the system and will make decisions affecting engineers working on modules within the system. As a system designer, you will advise the team regarding modules to be produced by other engineers. Direct tasking of other engineers will depend on your seniority and the size of the team.
+
+Senior and junior positions are available.
+
+Responsibilities And Duties
+
+In this role, you will be called upon to develop a variety of aspects of the system, with duties such as:
+Design and implement software systems for robotics
+Create modular system architectures with well-defined interfaces between modules
+Design and implement the mission executive particular to the application
+Be responsible for system performance
+Analyze and understand system behavior
+Design and execute system test plans
+Lead and participate actively in system debugging -- triage and root cause analysis
+Communicate system performance results to upper-level management and external customers
+
+Qualifications And Skills
+Bachelor's degree in Robotics, Computer Engineering, Computer Science, Electrical Engineering, or related discipline
+Experience programming in C++ in a Linux environment, preferably using the Robot Operating System (ROS) framework
+Experience interfacing with standard localization, perception, and planning algorithms
+Working knowledge of lidar sensors, cameras, and inertial navigation systems
+Working knowledge of embedded systems, sensors, actuators, and/or other electromechanical devices
+Experience in field testing robotic systems
+
+Benefits
+Compensation compatible with qualification
+401(k) plan
+Health, dental, and vision benefits
+Life insurance; long-term and short-term disability benefits
+
+Company Overview
+
+At Near Earth Autonomy, we are building the future of flight by creating autonomy systems that enable aerial vehicles to fly themselves safely and efficiently. When you join our company, you will get a spot on a team with the best minds in robotics and aerospace working to solve some of the hardest problems in the industry. You will write algorithms to keep aircraft safe by detecting wires hundreds of feet away, implement programs that map the world by processing hundreds of thousands of lidar data points per second, design sensor enclosures that can withstand the vibrations of helicopter blades spinning at 400 rpm, and participate in flight tests to watch your technology in action. You will collaborate with mentors and teammates who are happy to share their expertise and help you grow professionally.
+
+Here, you will find the reputation of a well-established company combined with the meritocratic structure, dynamic culture, and personal ownership of a start-up. You will be able to discuss the company strategy with our CEO over tacos, talk shop with our CTO on a walk through the 640-acre park next to our office, share your cooking skills with your colleagues in the annual chili cook-off, and wear the company uniform playing on our soccer and rowing teams.
+
+We are a community of valued individuals who understand that life happens outside of the office. We are flexible and accommodating to our staffs needs, particularly when unexpected situations arise such as needing to take care of home life and family. Our compensation package includes a salary that enables a comfortable life, stock options that reward employees for long-term loyalty, a 401k retirement plan, and medical, dental, and vision benefits.
+
+We are looking for women and men who want to revolutionize aerial delivery, transport, and inspection. If you are up for the challenge, please submit your application, come on board, and let your passion take flight.
+
+SDL2019-64
+About the job
+Maxar is seeking to hire a Systems Engineer to join our Tactical Ground Programs (TGP) team in Westminster, CO. We are seeking a cross-functional team member who can interact with systems and software engineers, configuration management specialists, and system security specialists. This technical team supports the US Government by providing systems engineering, software engineering, and satellite downlink expertise to develop and deploy satellite remote GEOINT processing and exploitation ground systems. This position will provide support to the integrated hardware and software systems. In this role, you will work in an Agile Scrum environment working across functional teams.
+
+Responsibilities
+
+Effectively work in a fast-paced development and operations support environment as part of an Agile Scrum team.
+Provide technical expertise on cutting edge software and systems of systems design.
+Plan and perform engineering research, design development, and other assignments in conformance with design, engineering, and customer specifications.
+Improve operational excellence by aligning future architecture with current operations by focusing on requirements-driven design.
+Engage with internal and external customers to ensure business objectives are met.
+Work closely with program management teams to enable technical delivery objectives.
+Engage with stakeholders to determine future ground station requirements.
+Periodically participate in the on-site installation of the overall system, both hardware, and software.
+
+Minimum Requirements
+
+Must be U.S. Citizen with the ability to obtain and maintain a Secret clearance.
+Bachelor's degree in Computer Science or a relevant technical degree.
+5 years of relevant experience. In lieu of a formal degree, this position will allow 10 years of relevant experience.
+Familiarity with DoD software policies and DoD system design requirements.
+Ability to problem-solve from a holistic, systems approach.
+Ability to delineate distractors versus issues.
+Ability to travel internationally and domestically up to 10%.
+Strong verbal and written communication skills to work in a collaborative team environment.
+Ability to work in the Westminster, Colorado office.
+
+Preferred Qualifications
+
+Active Top Secret clearance, TS/SCI highly desirable.
+Experience operating as a part of a System Engineering, Integration, and Test (SEIT) group.
+Experience in satellite ground station operations, or equivalent experience in aerospace operations.
+Experience in software container-based environments.
+Experience with Atlassian Jira issue tracking software.
+Agile development and/or SCRUM experience.
+#cjpost
+About the job
+General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 13,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high performance team!
+
+General Dynamics is an Equal Opportunity/Affirmative Action Employer that is committed to hiring a diverse and talented workforce. EOE/Disability/Veteran
+
+ 
+
+Bachelor’s degree in Systems, Electrical or Computer Science Engineering, a related specialized area or field is required. Agile experience preferred.
+
+ 
+
+Candidates must be able to obtain a U.S. Department of Defense TS/SCI security clearance within a reasonable amount of time from date of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.
+
+ 
+
+ 
+
+ 
+
+Help make the technologies, products and services that make a difference. That’s the opportunity that’s waiting for you at General Dynamics Mission Systems. We help our nation’s heroes keep our nation safe by creating solutions so advanced, they redefine innovation for the world. It’s an amazing challenge. And it’s waiting for you now.   We apply advanced technologies such as Artificial Intelligence, Blockchain, AR/VR, Cloud Native and Quantum Physics to solve our customers’ missions in cyber, RF, undersea, interstellar space and everything in between.
+
+ 
+
+We have an immediate opening for a Entry Level Software/Systems Engineer in our Pittsburgh location.  This position provides an opportunity to further advance the
+
+cutting-edge technology that supports some of our nation’s core defense/intelligence services and systems.  General Dynamics Mission Systems employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.
+
+ 
+
+Do you like knowing that your work has life-saving value?  Do you like the squeak of dry-erase markers on a giant whiteboard, or a lively debate about a user’s optimal experience, or the view of the South Side slopes, or the autonomy to accomplish your goals as you see fit or board game lunches?  Do you like the kind of day where you learn so many new skills that your brain feels like it just ate Thanksgiving dinner?  Sound intriguing?  Viz is looking for people like you: smart, creative, and fun.
+
+ 
+
+We make software that interactively visualizes data.  We make software that enables massive collaboration.  We make software that supports our men and women in the military, that smoothes the way of emergency responders here at home, that offers insight to researchers and data analysts.   We’re a passionate, close-knit group of inter-disciplinary thinkers and doers that craft truly one-of-a-kind software used all over the world, and we do it from our cozy-casual office here in Pittsburgh.
+
+ 
+
+Check out who we are and what we do here in Pittsburgh!
+
+ 
+
+As an Entry Level Software Systems Engineer you will:
+
+Apply the appropriate standards, processes, procedures, and tools throughout the system development life cycle to support the generation of technical engineering products
+Support and develop our technical culture by being engaged, intellectually curious,
+Participate in requirements analysis, requirements management, functional analysis, performance analysis, system design, trade studies, systems integration and test (verification) in the development and evaluation of networks and information systems. 
+Apply systems thinking to software, processes, people, and organizations. You will help harden software and processes into mature, mission-critical, “must-work” products.
+What you’ll experience:
+Technologies that aren’t just top-notch, they’re often top-secret
+A team of bold thinkers committed to exploring what’s next
+Opportunities to gain new knowledge - as it’s discovered
+What you bring to the table:
+A Bachelor’s degree in systems engineering, a related specialized area or field is required; Agile experience preferred
+Clear understanding of systems engineering concepts, principles and theories
+Familiarity with technical standards
+What sets you apart:
+Creative thinking with the ability to multi-task
+Ability to quickly grasp and apply new information
+Strong initiative and professionalism on projects with increasing complexity
+Commitment to ongoing professional development
+About the job
+Job Description
+
+The brains behind drones and autonomous vehicles are paving the way of the future. This isn't your typical software engineering gig.
+
+Here at Oculii, we're developing high resolution imaging radars to enable the next generation of autonomous systems. We are backed by some of the top investors and corporations from Silicon Valley and are working with leaders in Self Driving Vehicles, Robotics, and Drones. We help them to deliver on an autonomous future with an advanced, robust, affordable perception platform.
+
+Have experience implementing software that drives autonomous vehicles or systems? Oculii is seeking Embedded Systems Engineers with automotive experience to help us design and implement the next generation of autonomous systems. Come here to learn the way. Stay here to lead the way. Oculii. Independently Build. Collectively Driven.
+
+What You'll Be Doing
+Bring up and verify functionality of new embedded system platforms using test C code and lab equipment (power supplies, oscilloscopes, etc.)
+Design and testing of low-level control drivers for a variety of peripherals such as converters, synthesizers, etc.
+Bring up of real-time embedded operating systems like RT-Linux on ARM platforms
+Work with system specifications to implement, verify, and test embedded systems drivers and algorithms in C/C++ running on these systems
+Ensure that designed modules meet specifications and interface correctly with the rest of the system
+Work with mixed signal and digital design engineers to ensure that interfaces are properly designed
+Help systems team identify and select appropriate embedded systems controllers
+
+
+Job Requirements
+
+What you bring to the table:
+1-3 years of experience implementing autonomous systems like those found in today's generation of self-driving cars; automotive experience a plus!
+Demonstrated ability to design, build, and ship C code for embedded systems
+Fluent in C/C++ and able to rapidly design, test, and verify systems
+Experience with embedded operating systems (RT-Linux) on ARM platforms
+Experience with a variety of microcontrollers including ARM and MIPS
+Applicants must be eligible to work in the United States
+About the job
+The Cobalt Robot is a complex system with a variety of hardware, software, and Linux subsystems that we are looking to mature with rigorous systems engineering and testing. You'll be able to create new testing and bringup processes from the ground up to improve our quality and manufacturing speed. This is a unique opportunity to work across all departments of Cobalt as we expand our fleet of robots and operations. Your responsibility will be to foresee mechanical, electrical, and systems failures before they happen and to design and run bringup tests that allow us to ship incredibly robust robots.
+
+What you’ll do:
+Root Cause complex issues that arise at the intersection of our operating system, hardware, and software.
+Troubleshooting across complex multidisciplinary systems.
+Think critically about the robot's reliability, our manufacturing processes, and create new testing plans to improve our quality and speed.
+Design and create test stands with mechanical fixtures, arduino, python, and other rapid prototyping tools.
+Write python tools to collect, analyze, and store data from manufacturing tests.
+Work alongside our manufacturing technicians to assist them and better understand bottlenecks.
+
+What you need:
+2-5 years of Systems Engineering or Test experience
+Comfortable with Python scripting
+Comfortable with Linux debugging
+Comfortable with electronic prototyping tools such as arduino or raspberry pi
+
+Bonus Skills:
+Experience working at a hardware startup
+Experience with Ansible
+Experience with robotics, and ROS
+C/C++ or firmware experience
+About the job
+Role And Responsibilities
+
+This position is contingent upon program award.
+
+LOCATIONS: Aberdeen Proving Ground, Maryland; Huntsville, Alabama; Colorado Springs, Colorado
+
+POSITIONS: General Engineer I - V including General Engineer IV (Working Leader)
+
+Summary
+
+Evaluates, selects and applies standard engineering techniques, procedures and criteria, and makes adaptations and modifications, with varying levels of support based on level of position.
+
+Essential Duties And Responsibilities
+
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+Positions range from performing a variety of routine engineering tasks designed to provide experience and familiarization with engineering methods, practices, and programs with a high level of support, to independently evaluating, selecting, adapting, and modifying standard techniques and criteria in order to plan and conduct engineering assignment.
+General Engineer I - Performs a variety of routine engineering tasks designed to provide experience and familiarization with engineering methods, practices, and programs. Works under the guidance and direction of an experienced engineer; assignments screened for unusual or difficult problems and techniques; or procedures to be applied to the solution of problems will be selected by an experienced engineer or the supervisor. Provides professional engineering support within allocated task resources. Performs limited portions of engineering tasks under the detailed direction of an experienced engineer. Applies commonly used equations and techniques to evaluate and solve assigned problems or systems. More specific requirements for Electronic, Mechanical, Network and Software positions follow.
+General Engineer II - Performs routine work requiring application of standard techniques, procedures, and criteria in carrying out a sequence of related engineering tasks. Provides professional engineering support with increasing independent accomplishment. Assignments are screened for unusual or difficult problems; receives close supervision on new aspects of assignments. Duties and responsibilities include: performs specific and limited engineering tasks of a broader assignment under the direction of an experienced engineer; prepares computations, specifications, and reports of limited scope and complexity; applies standard practices and techniques in specific situations; and may be assisted by a few support personnel.
+General Engineer III - Independently evaluates, selects and applies standard engineering techniques, procedures, and criteria, and makes minor adaptations and modifications. Provides independent and professional support on portions of complex projects. Specific assignment objectives, approaches, and possible solutions are reviewed for accuracy and completeness. Duties and responsibilities include: independently performs a project assignment that involves complex features and can be guided by codes, standards, and other precedents of the discipline; analyzes and/or evaluates the results of an analysis using techniques prescribed by senior engineers or supervisors; and accomplishes tasks of which require investigation of a many variables.
+General Engineer V - Independently evaluates, selects, adapts, and modifies standard techniques and criteria in order to plan and conduct engineering assignment. Performs project work through extensive knowledge of engineering practices and policies to devise new approaches to resolve problems. Operates with general instructions in an independent mode and receives guidance on special problems or when requested. Duties and responsibilities include: independently plans, schedules, conducts or coordinates detailed phases of engineering work through the selection and adaptation or modification of techniques, procedures, and criteria; analyzes complex features of the work and applies principles and practices of the discipline, or devises new approaches in problem solutions; thoroughly reviews all results from assigned tasks and determine if outputs are complete, correct, integrated with project objectives, and adequately documented; and independently prepares (or directs others in the preparation of), computation/analyses, specifications, and technical reports in the specific area of technical expertise; selects and applies engineering techniques and procedures to analyze and evaluate specific problems, data, or other features of the work which are broad in scope and complexity; and reviews and evaluates the quantity, quality, and overall adequacy of results and conclusions drawn from accomplishment of engineering tasks. Plans, designs, coordinates, executes, monitors, evaluates and reports test and evaluation of materiel, incorporating state-of-the-art technology and requiring substantial deviation from established test procedures and/or development of new test capability or instrumentation systems. Performs fundamental research, feasibility, engineering design or development of tests. Performs independently on projects having the characteristics described above. Attends meetings and conferences that relate to assigned area of responsibility and assists in the isolation and resolution of controversial and novel issues regarding items being developed and tested. Informs Government personnel about matters covered during meetings and information provided and received. Assists in scheduling tests and coordinating support requirements with test scheduling office and supporting organizational elements. Observes or participates in the execution of assigned tests as required. Monitors performance of the test item and adequacy of data collection, and facilitates range, test course and laboratory safety. Coordinates with others to assure all safety, security, environmental and community concerns are adequately addressed. Reviews the data collected for completeness, accuracy and validity. Analyzes test data in terms of serviceability, cost conditions where the item will be developed, etc., and prepares final test report outlining problem areas revealed during the test and making recommendations and conclusions as to the suitability of the materiel being tested. Due to the uniqueness and complexity of materiel being tested, the incumbent is required to prepare intricate, detailed and interpretative analysis of test results.
+General Engineer IV (Working Leader) - May serve as working leader responsible for leading and providing technical advice and direction to personnel. Duties may include, but are not limited to, monitoring work; ensuring product quality, accuracy, and timeliness; consolidating reports for COR regarding status updates and billing; and reviewing collected data for completeness, accuracy, and validity. Coordinates with others to assure all safety, security, environmental, and community concerns are adequately addressed. Serves as an expert for providing technical guidance and information to meet requirements. Operates with general instructions; selected portions of work will be reviewed in detail to measure adequacy of approach, execution, and presentation. Duties and responsibilities include: devises new approaches to problems encountered and to accomplish assigned tasks with efficiency, dispatch, and thoroughness; independently prepares (or directs others in the preparation of), computation/analyses, specifications, and technical reports in the specific area of technical expertise; selects and applies engineering techniques and procedures to analyze and evaluate specific problems, data, or other features of the work which are broad in scope and complexity; and reviews and evaluates the quantity, quality, and overall adequacy of results and conclusions drawn from accomplishment of engineering tasks. Plans, designs, coordinates, executes, monitors, evaluates and reports test and evaluation of materiel, incorporating state-of-the-art technology and requiring substantial deviation from established test procedures and/or development of new test capability or instrumentation systems. Performs fundamental research, feasibility, engineering design or development of tests. Performs independently on projects having the characteristics described above. Attends meetings and conferences that relate to assigned area of responsibility and assists in the isolation and resolution of controversial and novel issues regarding items being developed and tested. Informs Government personnel about matters covered during meetings and information provided and received. Assists in scheduling tests and coordinating support requirements with test scheduling office and supporting organizational elements. Observes or participates in the execution of assigned tests as required. Monitors performance of the test item and adequacy of data collection, and facilitates range, test course and laboratory safety. Coordinates with others to assure all safety, security, environmental and community concerns are adequately addressed. Reviews the data collected for completeness, accuracy and validity. Analyzes test data in terms of serviceability, cost conditions where the item will be developed, etc., and prepares final test report outlining problem areas revealed during the test and making recommendations and conclusions as to the suitability of the material being tested. Due to the uniqueness and complexity of material being tested, required to prepare intricate, detailed and interpretative analysis of test results.
+QUALIFICATIONS AND REQUIREMENTS:
+Education: Must possess a Bachelor’s Degree in engineering specialization or related discipline and one to ten years applicable experience (design development, and/or testing planning, reviewing, or executing testing of military systems) varying with level of position. A Master's degree may reduce the required amount of applicable experience. For higher levels (General Engineer IV (Working Leader) and General Engineer V), must possess a Master's Degree in Engineering specialization or related discipline and fifteen to twenty years applicable experience. A Doctorate Degree in Engineering specialization or related discipline may reduce the required amount of applicable experience.
+Experience : Experience in DoD integrated test philosophy, test regulations, and coordinated test and evaluation programs are required. Must be familiar with DoD drawings, specifications practices, formats and procedures. Top Secret/Sensitive Compartmentalizes Information (TS/SCI) security clearance is required. Higher levels (General Engineer IV (Working Leader) and General Engineer V) require 3-5 years leading/supervising.
+Clearance: TS/SCI
+Work location: Aberdeen Proving Ground, Maryland; Huntsville, Alabama; Colorado Springs, Colorado
+Travel: 5-10%
+
+Security Responsibilities
+
+Must comply with all company security and data protection / usage policies and procedures. Personally responsible for proper marking and handling of all information and materials, in any form. Shall not divulge any information, or afford access, to other employees not having a need-to-know. Shall not divulge information outside company without management approval. All government and proprietary information will be accessed and stored electronically on company provided resources.
+Incumbent must be eligible for DoD Personal Security Clearance. Applicant selected will be subject to a security investigation and must be able to meet eligibility requirements for access to classified information; (TS/SCI) security clearance is required
+
+Work Environment And Physical Demands
+
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+This job operates in a professional office environment. This role routinely uses standard office equipment such as computers, phones, photocopiers, filing cabinets and fax machines.
+Must be able to travel and work overtime as necessary
+Must be willing to work any shift or day of the week as required
+Must be able to detect odors or hear noises, bangs, etc., or other sounds to detect problems or flaws in the functioning of simulators and its surrounding environment.
+
+Other Duties
+
+Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for their job. Duties, responsibilities, and activities may change at any time with or without notice.
+
+CAE USA Inc. is an EOE/AA employer and gives consideration for employment to all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. If you’d like more information about your EEO rights as an applicant under the law, please click here EEO is the Law poster .
+
+PAY TRANSPARENCY NONDISCRIMINATION PROVISION The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information.
+Position Type
+Regular
+CAE thanks all applicants for their interest. However, only those whose background and experience match the requirements of the role will be contacted.
+
+Equal Employment Opportunity
+
+At CAE, everyone is welcome to contribute to our success. With no exception.
+
+As captured in our overarching value "One CAE", we’re proud to work as one passionate, boundaryless and inclusive team.
+
+At CAE, all employees are welcome regardless of race, nationality, colour, religion, sex, gender identity or expression, sexual orientation, disability or age.
+
+The masculine form may be used in this job description solely for ease of reading, but refers to men, women and the gender diverse.
+About the job
+Take your next career step at ABB with a global team that is energizing the transformation of society and industry to achieve a more productive, sustainable future.
+
+At ABB, we have the clear goal of driving diversity and inclusion across all dimensions: gender, LGBTQ+, abilities, ethnicity and generations. Together, we are embarking on a journey where each and every one of us, individually and collectively, welcomes and celebrates individual differences.
+
+ABB's Robotics and Discrete Automation business is writing the future of flexible factory and smart machines by providing value-added solutions in robotics, machine and factory automation. Our integrated automation solutions, application expertise across a wide scope of industries, and our global presence deliver tangible customer value.
+
+The quality and innovation of the engineering in our products, systems, and service offerings keep our customers ahead. Developing solutions for our customers all over the world and working on our market-leading technologies will challenge and enrich your work and your mind.
+
+The role reports to the Operations Manager and is located in Auburn Hills, Michigan. As an Application Engineer, you will perform various engineering duties requiring the exercise of judgment and application of standard engineering principles and practices. Pursue initiatives to improve the effectiveness of the group and increase customer satisfaction. Coordinating with the design and development groups to determine effective applications, equipment, and methods to produce new products. It also includes providing consulting services to project execution operations–both internal and external. This position will focus on all applications in the General Industry.
+
+
+Your Responsibilities
+Perform various engineering tasks involving such functions as analysis, design, development, test, installation and service, while working from instructions, drawings, proposals, specifications, and other pertinent information. Design and develop robot simulations to effectively meet requirements and resolve problems.
+Prepare specifications and related documents in accordance with requirements, established formats and general instructions. Review and analyze a variety of engineering data, documents and reports.
+Consult with other engineering groups to ensure that specified engineering criteria are suitable for the proposed application, and recommend revisions, as appropriate. Plan, conduct or coordinate relatively straight-forward engineering analyses and tests, and prepare related reports and summaries, for review.
+Design and develop complex models or simulations and apply advanced computer programs, analytical techniques, or control strategies to effectively meet requirements and resolve problems.
+Duties require a thorough understanding of standard engineering theories, concepts, principles and techniques. Work is subject to a general overview to ensure quality.
+
+Your background
+Bachelor's Degree, preferably in Engineering, and minimum 3 years' experience in automation, application, proposals, support sales, project engineering, robotics, OR Associates Degree, preferably in a technical field, and 5 years' experience in automation, application, proposals, support sales, project engineering, robotics, OR High School Diploma / GED and 7 years' experience in automation, application, proposals, support sales, project engineering, robotics.
+Candidates must already have a work authorization that allows them to work for ABB in the United States.
+Open to travel about 40%
+Highly preferred to have experience in RobotStudio, also experience with Machine tool tending, with projects for Electronics or General Industry segments,
+
+More About Us
+We look forward to receiving your application. If you want to discover more about ABB, take another look at our website www.abb.com.
+
+Equal Employment Opportunity and Affirmative Action at ABB
+
+ABB is an Equal Employment Opportunity (EEO) and Affirmative Action Employer encouraging diversity in the workplace.
+
+All qualified applicants will receive consideration for employment without regard to their race, creed, color, ancestry, religion, sex, national origin, citizen status, age, sexual orientation, gender identity, disability, marital status, family medical leave status, or protected veterans status. For more information regarding your (EEO) rights as an applicant, please visit the following websites:
+http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf
+http://www1.eeoc.gov/employers/poster.cfm. http://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf
+
+As an Equal Employment Opportunity and Affirmative Action Employer, applicants may request to review the Affirmative Action Plan of a particular ABB facility between the hours of 9:00 A.M. - 5:00 P.M. EST Monday through Friday by contacting an ABB HR Representative at 1-888-694-7762.
+
+Protected veterans and qualified individuals with a disability may request a reasonable accommodation if you are unable or limited in your ability to use or access ABB's career site as a result of your disability. You may request reasonable accommodations by calling an ABB HR Representative at 1-888-694-7762 or by sending an email to US-AskHR@abb.com. Resumes and applications will not be accepted in this manner.
+General Industry
+About the job
+Your journey to building a better world starts here!
+
+WHO WE ARE
+
+We help our customers deliver products that have a profound impact on people’s lives. From ultrasound units and 3D printing to network security applications and in flight Wi-Fi, we help create products that build a better world. Now, more than ever, we are making an impact as we support products used in the fight against COVID-19.
+
+We’re a global team of over 19,000 Engineering, Manufacturing, Supply Chain and Aftermarket Service experts that partner with our customers to bring their products to life through inspired innovation and world-class customer service. As an employee of Plexus, we are committed to keeping you safe with newly implemented precautions such as virtual interviews, staggered start times across all shifts, enhanced cleaning processes, temperature screenings as you enter our facilities and requiring all employees to wear masks.
+
+We are currently hiring for full-time, immediate, career opportunities. Whether you’re looking to start, make a change, or advance your career, find your path at Plexus and leave your mark on the world.
+
+WHY YOU WILL LOVE IT Engaging and challenging projects that fulfill and develop you. People that support and inspire you to realize your full potential. A workplace centered on collaboration and integrity. At Plexus, we’re at our best when opportunities are met with passion, open communication and teamwork.
+
+HOW YOU WILL DO IT
+
+
+
+Purpose Statement: Lead the standardization of Plexus Automated Solution controls architecture. Including the design, development, analysis, production, and commercialization of innovative automation software solutions to aid advancement of Plexus Manufacturing. This position also leads deployment of those automation technologies, including robotics, controls, machine vision, etc. Ensures sustainment, support and employee training of Automated Solutions across all Plexus Manufacturing Solution sites.
+
+Key Job Accountabilities:
+Engage with global Plexus and customer stakeholders to understand solution requirements and how automated technologies may advance Plexus Manufacturing capability and Operational Excellence. Create formal definitions of requirements and, in concert with stakeholders, prioritize the requirements to ensure the most efficient, effective delivery of enhanced capabilities.
+Produce automated controls hardware and software capabilities. Architect and develop hardware and software system concepts that satisfy the Automated Solution requirements gained by engaging with stakeholders. Lead global teams, both internal and external, responsible for programming and development of automation controls hardware and software capabilities. Including system hardware such as robots, cobots, PLCs, controllers, computer vison, and sensors. System software such as robot, PLC, machine vision, human machine interfaces, system performance and analysis software, interfaces to Manufacturing Execution Systems, and other interconnectivity as necessary.
+Drive capability implementation in accordance with established standards documentation. Maintain and deliver controlled software releases to internal customers and external partners using appropriate configuration management tools. Develop training materials and documentation; provide initial “train-the-trainer” training to ensure effective employment of capabilities.
+Provide deployment support and training for the regional SME’s to ensure consistent technology deployment. Maintain and propagate best practices and standard work for the capabilities. Provide ongoing technical support and capability upgrades over the life cycle of the platform. Plan for capability obsolescence and replacement.
+Additional Accountabilities:
+Mentor and help develop engineers and members of the extended automation team. Contribute to their understanding of controls hardware and software engineering, with focus on its relevance to the individual’s core areas of responsibility. Help build an overall awareness of sound engineering principles, considerations and applications. Assist with professional development of the team to grow talent and develop successors/ new leaders for Plexus.
+Network with industry experts to stay current with industry trends relating to the development and control of automated solutions. Including enhancements to the user experience of the solution operator, technician, and engineer.
+Support the continuous improvement of current systems to meet new customer demand and delivery goals. Includes the use of system data in conjunction with lean principles to drive world class productivity.
+Additional duties as assigned.
+Education/Experience Qualifications:
+A minimum of a Bachelor’s Degree in Electrical, Mechanical or Software Engineering is required
+1 years of related experience is required; 1 years of related experience is preferred.
+An equivalent combination of education and experience sufficient to successfully perform the key job accountabilities may be considered.
+
+Other Qualifications:
+Adept in programming 6-axis industrial robots, PLCs, single board computers and other automation peripherals using languages such as RSLogix, Codesys, Python, Fanuc TPP, UR Script, C# or C++
+Extensive industry experience in designing and building electrical control panels to industry standards
+Physical Requirements:
+Ability to stand for extended periods of time
+Work Environment:
+The work setting should consist of a manufacturing environment with suitable lighting, comfortable temperatures, and a moderate noise level.
+This document does not represent a contract of employment and is not intended to capture every possible assignment the incumbent could be asked to perform.
+
+Some offers of employment are contingent upon successfully passing a drug screen and upon completion of a confidentiality agreement.
+
+Our Values and How We Lead behaviors guide our processes. Plexus does not make employment decisions based on race, color, religion, national origin, sexual orientation, gender identity, disability, or veteran status. We are proud to be an Equal Opportunity Employer (EOE) and encourage all to apply today!
+
+Globally, our policy is to recruit people from wide and diverse backgrounds. However, our company does not typically undertake sponsorship, including for H-1B, TN, and other nonimmigrant visas. Additionally, certain positions require access to controlled goods and technologies subject to the International Traffic in Arms Regulations (ITAR) or Export Administration Regulations (EAR). Applicants for these positions may need to be “U.S. persons.” “U.S. persons” are generally defined as U.S. citizens, nationals, lawful permanent residents (or, green card holders), individuals granted asylum, and individuals admitted as refugees.
+About the job
+Automation and Controls Engineers are needed for a premier engineering consulting and systems integration firm in 8 locations; Chicago, Dallas, Denver, Houston, Seattle, New York City, St. Louis, and Boston. Work on a wide range of projects in a variety of industries from automotive to healthcare to food and beverage. Constantly learn new technologies to continually provide cutting edge solutions.
+
+Why work here?
+Hit the ground running on projects on week one!
+Project responsibilities and interactions with clients to solve real-world problems!
+Expect ongoing training on cutting edge technologies!
+Fun culture with offices locations in premium areas!
+Be surrounded by super-smart humans!
+Competitive compensation and bonuses!
+Full benefits, 401k matching, Profit-sharing!
+
+
+Responsibilities
+Program applications to meet & exceed customer requirements
+Engineering tasks in supportive and leading roles at all stages of projects
+Develop robust applications in accordance with company standards & best practices
+Project planning/system architecture design assistance
+Program implementation
+Debug
+System testing
+Communicate with team members and clients
+Documentation
+Respond to customer needs
+Travel to customer sites when needed
+Commissioning of solutions at customer sites, including troubleshooting electrical and mechanical systems
+Perform programming and engineering tasks
+System design and design assistance
+Help train new employees
+Convey knowledge in presentations, SOPs, knowledgebase articles, client case studies, and white papers
+Develop & maintain relationships with key contacts, vendors, and clients
+Assist in writing project proposals
+Seek, identify, and discuss new opportunities with new & existing clients
+
+
+Requirements
+Bachelor of Science in Mechanical, Electrical, or Computer Engineering or related field (GPA of 3.0 min.)
+Demonstrated interest and ability to program, including text-based languages and object-oriented concepts
+Experience with multiple technologies, such as PLCs, HMIs, SCADA, Servo Control, LabVIEW, Machine Vision, etc.
+Project-based development experience
+Cradle-to-grave controls project experience
+
+
+Required Skills
+Programming
+Quickly learn new technologies
+Possess complete grasp of scientific method of problem solving
+Ability to follow patterns & build upon established models
+Understand complex system designs
+Ability to estimate time to complete familiar tasks
+Ability to create methodology to solve novel problems
+Ability to design systems based upon previously used designs
+Estimate your own and others' time for completion of familiar tasks
+Write project proposals
+Communications
+Customer Service
+Technical Writing
+About the job
+With over 130 store and warehouse locations and more than 7,500 associates across the U.S. and Canada, Crate and Barrel is a dynamic and growing multi-channel furniture and housewares retailer. So we can continue to help others love how they live in moments that matter, the iconic brand is looking for a driven and passionate professional to raise the bar and join our Technology department as Automation Engineer, located in our Northbrook, IL corporate office.
+
+The Automation Engineer will be responsible for analyzing, recommending, deploying, configuring, and maintaining tools that assist us in managing, monitoring our IT infrastructure. In addition this position will be responsible for analyzing the environment for automation opportunities, prioritizing impact/effort, and driving these opportunities to closure.The main focus of the role will be in support of maintaining resilient network operations and providing efficient and effective end user support.
+Partner with technical administrators, application developers, leaders, and other service desk and operations personnel to analyze tooling and automation needs. Determine existing capabilities and roadmap the path forward to better meet organizational demand.
+Coordinate and execute projects associated with the installation, configuration, deployment and ongoing upkeep of management/monitoring tools and/or automation opportunities.
+Analyze and recommend replacement solutions for existing service desk software (SLA management, Service Catalogue, Self Service, Knowledge Management, Automation/Bots), ITSM solutions (Incident, change, problem, release), and IT Asset Management Software. Manage and deploy solutions in coordination with business partners. Provide ongoing upkeep and support. Drive tooling integrations and enhancement.
+Provide operational and project status reports.
+Analyze the environment to provide insight into repeatable, automatable workload and drive opportunities to closure.
+Drive the evaluation of new infrastructure monitoring, management, and automation technologies.
+Recommend optimizations to the environment which improve delivery and performance for end users and customers.
+Provide technical training to Service Desk, Operations, and relevant parties. Work to seed knowledge of automation in the organization and provide education on tooling that is available for use.
+Serve as after hour, weekend and holiday support, as necessary.
+
+What You'll Bring
+Bachelor’s Degree in Computer Science or a related field highly preferred
+2+ Years experience preferred on a subset of listed technologies
+Ability to work autonomously with minimal supervision
+Attention to detail and interpersonal skills
+Ability to write and present information and documentation
+Ability to manage multiple issues at once
+Knowledge of management and visibility tools & technologies for on premises and cloud solutions (e.g. Whatsupgold, Nagios, Zabbix, ManageEngine, Splunk, PRTG, vRealize Operations, Solarwinds, SCOM, DataDog, NetApp, New Relic, Netreo, ThousandEyes, LogicMonitor, Snort, Cacti, SumoLogic, etc)
+Knowledge of ITSM, Service Desk, and Asset Management Solutions (e.g. SNOW, SAManage, BMC, FreshService, Jira/OpsGenie, Solarwinds, PagerDuty, Device42, etc)
+Knowledge of scripting languages and applications (e.g. perl, tcl, powershell, python, awk, etc)
+Knowledge of automation tooling (chatbots (e.g. RASA), RPA tools (UIPath/BluePrism), config management (Ansible/Puppet/Chef/SaltStack, Terraform), collaboration (e.g. Slack, Jira) ) and best practices for application
+Knowledge of ITIL best practices
+Ability to collaborate with technical peers across a highly dispersed work environment
+Good written and verbal language skills (English)
+The job description and other aspects of the job listed on this job posting should not be construed to contain every function/responsibility that may be required to be performed by an associate in this job. Associates are required to perform other related functions as assigned.
+
+Crate: Corporate Office
+About the job
+Do you like a challenge? Do you enjoy programming and working with electrical/mechanical systems? That's great because we're looking for engineers who want to solve tough problems by creating software that interfaces with and controls hardware!
+
+DMC Automation Engineers possess a broad understanding of engineering fundamentals and a desire to program. Working both independently and in teams, Automation Engineers will assist with project management and maintain communications with team members and clients. DMC works on a wide range of projects in a variety of industries from automotive to healthcare to food and beverage. Our engineers are constantly learning new technologies in order to continually provide cutting edge solutions.
+
+Responsibilities
+
+Engineer Level I
+Program applications to meet & exceed customer requirements
+Develop robust applications in accordance with DMC programming standards & best practices
+Project planning/system architecture design assistance
+Program implementation
+Debug
+System testing
+Communicate with team members and clients
+Documentation
+Respond to customer needs
+Travel to customer sites when needed
+Commissioning of solutions at customer sites, including troubleshooting electrical and mechanical systems 
+
+Engineer Level II (In addition to above responsibilities)
+Perform programming and engineering tasks in supportive and leading roles at all stages of projects
+System design and design assistance
+Help train new employees
+Convey knowledge in presentations, SOPs, knowledgebase articles, client case studies, and white papers
+Develop & maintain relationships with key contacts, vendors, and clients
+Assist in writing project proposals
+Seek, identify, and discuss new opportunities with new & existing clients
+
+Requirements
+
+Engineer Level I (0-3 years relevant experience)
+Bachelor of Science in Mechanical, Electrical, or Computer Engineering or related field
+Demonstrated interest and ability to program, including text-based languages and object-oriented concepts  
+
+Engineer Level II (2-5+ years relevant experience)
+In addition to the above requirements, experience with multiple technologies, such as PLCs, Servo Control, LabVIEW, Machine Vision, etc.
+Project-based development experience
+
+Required Skills
+
+Engineer Level I
+Programming
+Quickly learn new technologies
+Possess complete grasp of scientific method of problem solving
+Ability to follow patterns & build upon established models
+Understand complex system designs
+Ability to estimate time to complete familiar tasks
+
+Engineer Level II (In addition to above skills)
+Ability to create methodology to solve novel problems
+Ability to design systems based upon previously used designs
+Estimate your own and others' time for completion of familiar tasks
+Write project proposals
+
+Other Skills/Abilities
+Customer Service
+Communications
+Technical Writing
+General Admin
+
+Please visit our website at www.dmcinfo.com or read some of our blogs to find out a little more about what you might be getting yourself into! 
+About the job
+Who We Are
+
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions.
+
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+
+Meet The Team
+
+The Onboard Infrastructure Test, Tools, and Methodologies team covers a broad range of critical functions for the success of Argo's self driving platform. These include a full range of activities ranging from architecture, tools, bringup, integration, and software test.
+
+The Engineer in Test is a role in software development. The primary task is to design and author software to ensure that the self driving platform can meet its requirements. It is a hands-on role involving day to day direct interaction with our product, and has a wide cross functional team interface. You will understand how every sensor plays a part in making the system work.
+
+What You’ll Do
+Create detailed, comprehensive, and well-structured modular test designs, test plans, and test cases
+Responsible for development and execution of automated tests on unit test environments as well as hardware-in-loop systems
+Interface with hardware, software, and systems engineering teams to identify system interactions that must be considered for testing
+Provide insight into appropriate testing methodologies, tools, and harnesses. Participate in the creation of such
+Quantify test results and specify quality metrics
+
+
+What You'll Need To Succeed
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Experience working with modern build and CI systems
+Strong Python programming skills for developing and automating software and hardware tests
+C programming skills applied to embedded Microcontroller/Microprocessor targets
+A record of owning projects successfully and working in a fast paced environment
+Ability to serve cross functional roles in a young company
+Good experience writing concise, clear, and detailed engineering documentation
+Strong presentation and communication skills
+Open to occasional travel to remote offices, test facilities, engineering partners, or manufacturing partners
+
+
+Nice To Haves
+Experience in software development for embedded devices
+Experience with debugging tools and methods for embedded targets
+Experience with ISO 26262 testing processes, such as software unit and integration verification testing, is a plus
+
+
+What We Offer You
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance
+Paid parental leave
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+
+
+Our Background
+
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees.
+About the job
+
+
+Responsibilities:
+Develop embedded software for flow meter electronics.
+Investigate issues reported from customers to resolve in a timely manner.
+Develop specialized software to meet unique customer requirements not covered with standard products.
+Document high and low level designs.
+Clarify software requirements for product definitions and write Software Requirements Specifications.
+Utilize requirements management tool to trace requirements back to marketing level requirements.
+Use configuration management tool (PVCS) to version control source code and documentation.
+Comply with software coding standards.
+Development primarily in C, C++ with some assembly.
+Participate in software project team efforts including planning, scheduling and technical execution
+
+
+REQUIRED EDUCATION, EXPERIENCE & SKILLS:
+
+
+
+BS Degree in Electrical Engineering or Computer Engineering with one to three years experience in embedded software development.
+Solid upfront design skills coupled with a process mindset for quality (design reviews, coding standards, etc.).
+Familiarity with modern software development methods and tools extremely helpful (ObjectOriented Design, UML, debuggers, emulators, oscilloscopes, etc.).
+Solid written and spoken communication skills
+Proven track record participating on completed software projects
+
+
+
+WHY EMERSON?
+
+
+
+Our Commitment to Our People
+
+We invest in our employees to ensure they have the marketplace knowledge, skills and competencies to compete and lead in a global economy. Our training programs focus on end-to-end development from onboarding through senior leadership.
+
+Flexible and competitive benefits plans offer you the right options to meet your individual/family needs:  medical insurance plans, dental and vision coverage, 401(k), tuition reimbursement, and more.  We provide employees flexible time off plans including paid parental leave (maternal and paternal), vacation and holiday leave.
+
+Our success is measured by the positive impact we make on people, our communities and the world in which we live.  Learn more about us! .
+
+Our Commitment to Diversity & Inclusion
+
+At Emerson, we are committed to fostering a culture where every employee is valued and respected for their experiences and perspectives. We believe a diverse and inclusive work environment contributes to the rich exchange of ideas that inspires innovation and brings the best solutions to our customers. This philosophy is fundamental to living our company’s values and our responsibility to leave the world in a better place.
+
+Diversity and Inclusion at Emerson is about welcoming, respecting, and valuing the differences each employee possesses. Inclusion is creating a real sense of engagement, belonging and connection for all employees. Learn more about our  Culture & Values  and about  Diversity & Inclusion at Emerson .
+
+
+Work Authorization
+
+Emerson will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1, H-1, H-2, L, B, J, or TN or who need sponsorship for work authorization now or in the future, are not eligible for hire.
+
+
+Equal Opportunity Employer
+
+Emerson is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, age, marital status, political affiliation, sexual orientation, gender identity, genetic information, disability or protected veteran status. We are committed to providing a workplace free of any discrimination or harassment.
+
+If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to  idisability.administrator@emerson.com . 
+
+Our compensation philosophy is simple: we pay a competitive base salary, within the local market in which we operate, and reward performance during the annual merit review process. In accordance with Colorado EPEWA, the salary range for this role is $58,600 – $104,300 annually, commensurate with the skills, talent, capabilities, and experience each candidate brings to this role. A general description of employee benefits can be found at: emerson.com/careers.
+
+Primary Location
+
+United States-Colorado-Boulder
+
+Other Locations
+
+United States
+
+Job Function
+
+Engineering
+
+Job Posting Date
+
+Jan 29, 2021, 11:13:44 AM
+
+Job Number: 21000923
+About the job
+Company:Qualcomm Technologies, Inc.
+
+Job Area:Engineering Group, Engineering Group > Software Engineering
+
+Job Overview:
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age - and this is where you come in.
+
+Before there were smartphones or smart cities, before autonomous cars or 360° virtual reality videos, there was our technology. Headquartered in San Diego, for over 30 years Qualcomm inventions have inspired others to make the impossible, possible. From 5G to artificial intelligence, from IoT to automotive and extended reality applications, Qualcomm is inventing the technologies of an intelligently connected future, spearheading research efforts for the next global wireless standard, and collaborating with industry leaders in the wireless value chain to make this future a commercial reality.
+
+As a Software Engineer at Qualcomm you have the opportunity to push the boundaries of what exists and establish the new standards for tomorrow. Begin your career as an equal contributor on teams of world-class engineers to develop, implement and maintain wireless and multimedia application software for the world's leading-edge mobile, automotive, and IoT devices. Qualcomm is looking for the next generation of dreamers, inventors, rebels, risk takers, and pioneers to start innovating with them as early as January 2020.
+
+Opportunities Include
+Linux OS Development
+Real time OS Development
+Android Architecture
+Kernel/Device Driver Development
+Multimedia: Video, Display, Audio, Graphic, Core Power, Camera
+Object Oriented and UI Design
+Windows Mobile Development
+Wireless Modem Software Development
+RF Software Development
+LTE, 4G/5G Software Development
+
+
+Must have educational training and experience across the following skill sets:
+C/C++ and object oriented design background
+Development of real-time embedded software and device drivers
+Mobile SW development for Windows Mobile, Android or Linux
+Linux/UNIX, Linux Drivers, Linux Kernel
+Wireless network protocols such as TCP/IP, SIP
+CDMA/UMTS, wireless technologies
+
+
+Education Requirements
+
+Required: Bachelor's in Computer Science, Computer Engineering, or Electrical Engineering
+
+All Qualcomm employees are expected to actively support diversity on their teams, and in the Company.
+
+Applicants: If you are an individual with a disability and need an accommodation during the application/hiring process, please call Qualcomm’s toll-free number found here for assistance. Qualcomm will provide reasonable accommodations, upon request, to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. Qualcomm is an equal opportunity employer and supports workforce diversity.
+
+To all Staffing and Recruiting Agencies:Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.
+
+EEO Employer: Qualcomm is an equal opportunity employer; all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or any other protected classification.
+About the job
+EMBEDDED SOFTWARE ENGINEER
+
+Bring your passion for space!
+
+Redwire is accelerating humanity’s expansion into space by delivering reliable, economical and sustainable infrastructure for future generations.
+
+Deep Space Systems Incorporated, A Redwire Company, is a space systems engineering company located in Littleton, Colorado that supports the design, development, integration, testing, and operations of science, technology, and exploration spacecraft. We currently have an opportunity for an Embedded SW Engineer who will be involved with Embedded firmware development on new and existing products.
+
+Summary Of Role
+Work with a highly collaborative and quickly evolving team in a fast-paced environment
+Work closely with hardware
+Expected to write technical documents and aid in writing test procedures
+Expected to develop software and carry it through the test/debugging phase
+Expected to use Git and Jira
+Provide additional software support and upkeep for the company
+Work collaboratively with cross-functional teams
+Estimate programming tasks with reasonable accuracy.
+
+
+Basic Qualifications
+B.A. or B.S. in Computer Science, Aerospace Engineering, Electrical Engineering, Math, or Physics with significant computer science coursework.
+C/C++
+Experience with Linux
+Experience with software development for embedded systems
+Experience with microcontroller development
+US citizenship required or legally authorized to work in the US without requiring visa sponsorship both now and in the future
+
+
+Desired Skills
+Industry experience preferred but not required for entry/associate level
+Python (Preferred)
+Experience with ARM and Yocto (Preferred)
+
+
+Benefits
+
+National health, dental and vision plans.
+Paid vacations and holidays.
+Life Insurance.
+Long-term disability plans.
+401(K) retirement plan.
+Flexible spending account.
+Incentive and recognition programs.
+National discount programs.
+Relocation opportunities.
+
+Redwire Space is an Equal Opportunity Employer; employment with Redwire Space is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+
+All offers of employment at Redwire Space are contingent upon clear results of a thorough background check.
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR Click Here
+About the job
+Position Title: Junior Embedded Software Programmer
+
+Salary: $60k-$70k
+
+Location: Position is fully remote with some client meetings in the Oakland/Macomb area.
+
+An Embedded Software Programmer is required to support the Engineering Division of GC Associates USA.
+
+Skills And Knowledge Required For The Position
+
+Support electronic controller development for Tier 1 suppliers and automotive OEMs for current projects. Work with other engineers on rapid growth technologies serving the military and commercial sectors. Experience with automotive software programming is preferred.
+
+Education: Must have a bachelor's degree in Computer Engineering, Electrical Engineering, or related technical degree.
+
+Additional Requirements: Must be a U.S. citizen and current MI-state resident.
+
+Job Posted by ApplicantPro
+About the job
+Bigger challenges. Bolder ideas. Global impact. At Viasat, we’re on a mission to deliver connections with the capacity to change the world. We’re the company behind the world’s fastest satellite internet service, with technology that’s helping to bridge the digital divide and improve life for our customers around the globe. By providing powerful new ways for people to connect with one another, gain greater access to education, entertainment, medical research, commerce, and much more, our team is empowering millions of customers worldwide.
+
+We’re looking for passionate, innovative professionals to join our team and connect the world to more. You’ll work in a collaborative and inclusive environment that values diverse perspectives and continuous learning, and provides industry-leading benefits with unmatched opportunities for career growth. Our team is fearless in pursuit of new ideas and uncompromising in our quest to become the world’s first truly global Internet Service Provider. Interested in joining our mission? Take a look at career opportunities at Viasat today.
+
+Job Responsibilities
+
+Flexibility to work among different project teams dedicated to:
+Cybersecurity software & systems engineering
+Be a part of an agile multidisciplinary development team
+Embedded systems software engineering
+Embedded or applications developer
+Distributed enterprise software applications
+System infrastructure development; scripting, automation, data visualization & dashboarding
+
+Requirements
+Bachelor’s degree or higher in Computer Science or Computer Engineering
+Previous experience using C or C++
+Previous experience using java or python
+Ability to pick up new software, frameworks and APIs
+Strong communication and teamwork skills
+Excellent software design, problem solving, and debugging skills
+Experience with or desire to learn Linux
+Ability to travel up to 10%
+Ability to obtain and maintain a security clearance
+Preferences
+Previous internship experience is a plus
+Courses in software architecture are a plus
+Experience with developing software monitoring and control software
+Familiarity with configuration management tools, development tools (Eclipse or Visual Studio), and agile development methodologies
+Knowledge of TCP/IP network fundamentals
+
+To learn more a bout this site and ot her office locations, please click
+About the job
+Job Description – Junior Controls Engineer
+
+We are seeking a Junior Controls Engineer to join our team! You will be responsible for the design and development of new, and upgrade/retrofit of existing intelligent systems and industrial controls. You will work with new and existing customers and leverage modern technologies and practices to streamline their control systems. You will be responsible for system concept design, component selection, proposal development, project execution and customer support.
+
+What Is Needed In This Role
+
+Previous experience in industrial automation, process engineering, machine controls or other related fields
+Programming from scratch and modifications of PLCs, HMIs, Servo Drives, Vision Systems and other automation components for new equipment.
+Experience with Factory Talk View SE Client/Server Distributed architecture
+Strong analytical and critical thinking skills
+Deadline and detail-oriented
+Self-starter
+Highly interested and practiced in emerging technologies in the automation field
+Ability to work alone or in a team environment
+Good work ethic
+Strong interpersonal skills
+Travel to customer’ s for design reviews, start-ups, and troubleshooting support
+
+Other Responsibilities (Overview)
+
+Create and improve automated systems and processes using PLC, HMI/SCADA, VFD/Servo, and various sensor technologies.
+Support the installation of both mechanical and controls upgrades
+Conduct cost-analysis to determine advantages of system improvements
+Research and implement new machinery and controls
+Troubleshooting and support of existing equipment and control systems.
+Coordinate with manufacturer/vendor specialists on the selection and design of automated solutions for various industries
+Engage in every part of the project cycle from sales and estimating through design, delivery and closeout
+What can you expect?
+Competitive salary/package
+Healthcare benefits, sick pay
+
+If you are a Junior Controls Engineer, please apply now! Only local candidates will be considered for this role
+About the job
+Job Description
+
+The Robotics Branch of the Aerospace, Transportation & Advanced Systems Lab creates innovative robotics and automation solutions for both industry and Government efforts in domains ranging from space habitats to biomanufacturing and warehouse automation. ATAS conducts research for government and industry customers in industrial robotics, medical robotics, unmanned systems, aerodynamics, radar and weapons systems, food processing technology, and modeling of social systems. http://www.gtri.gatech.edu/atas
+
+Our projects include coordinated multi-arm robot systems, work with small vehicle platforms, and automation for biomanufacturing. The Robotics Branch is looking for graduates in robotics, computer science, computer/electrical/mechanical engineering, or related fields specializing in software development, robotic planning, and control for agile robotics.
+
+You will be joining a growing robotics branch and division, and responsibilities may include research into new and innovative algorithms, rapid prototyping, systems integration, and software engineering with a specific focus on agile robotic applications.
+
+The successful candidate will perform research into novel solutions and algorithms for areas ranging from manipulation for discrete part assembly to sensor processing for obstacle avoidance and localization in both industrial and Government domains.
+
+Job Duties
+Creating software and applications for robotics and automation systems
+Generating research reports, publications, proposals, and briefs to customers
+Responsibilities include algorithm development, test, and debug, along with system integration
+Additional responsibilities may include:
+Research into new and innovative algorithms,
+Rapid prototyping,
+Systems integration, and
+Software engineering with a specific focus on agile robotic applications.
+Travel Requirements
+<10% travel
+
+Education & Length Of Experience
+
+Research Engineer/Scientist I
+A Bachelor's degree in Computer Engineering, Computer Science, Mechanical Engineering, Electrical Engineering, or related field of study.
+
+Research Engineer/Scientist II
+A Master’s degree in Computer Engineering, Computer Science, Mechanical Engineering, Electrical Engineering, or related field of study and three (3) years of relevant full-time experience after completion of that degree,
+A Master’s degree in Computer Engineering, Computer Science, Mechanical Engineering, Electrical Engineering, or related field of study and five (5) years of relevant full-time experience after completion of a Bachelor’s degree, or
+A Doctoral degree in Computer Engineering, Computer Science, Mechanical Engineering, Electrical Engineering, or related field of study.
+Required Minimum Qualifications
+Candidates currently enrolled in an accredited Bachelor's degree program relevant to this position will be considered. Candidate must have a graduation date of no later than May 2021
+Strong software skills and experience with C/C++
+Strong mathematical foundation and problem-solving skills
+Excellent written and verbal communication skills
+Hand-on experience with state-of-the-art algorithms on autonomous robot manipulators and/or ground-based robotic systems.
+Experience with micro-controllers for general automation projects
+Preferred Qualifications
+Experience with the Robot Operating System (ROS)
+Experience with VR/AR systems design and development
+Experience with biological or medical robotic applications
+Experience with machine vision
+Experience with systems integration
+Experience with real-time embedded software
+Has engaged in independent projects
+Experience with version control systems such as GIT
+Proven research experience in at least one of these areas is desirable:
+Robotic arms and/or grasping
+Multirobot collaboration
+Path planning and navigation
+Behavior-based robotics
+Optimal control and estimation
+Robotic task planning
+U.S. Citizenship Requirements
+Due to our research contracts with the US federal government, candidates for this position are required to be US Citizens.
+
+Clearance Type Required
+
+Candidates must be able to obtain and maintain an active security clearance.
+Diversity & Inclusion
+Diversity & Inclusion (D&I) at Georgia Tech Research Institute aims to enhance the Institute’s mission of solving the world’s most complex technical problems by creating a workforce with a shared appreciation for diversity, raising awareness around inclusiveness, and fostering a sense of belonging and appreciation for all members of our community.
+Equal Employment Opportunity
+Georgia Tech Research Institute is an Equal Opportunity Employer of individuals with disabilities and protected veterans and actively seeks diversity among its employees. Equal Employment Opportunity is the Law .

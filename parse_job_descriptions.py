@@ -82,3 +82,10 @@ solo, bi, tri = bigrams_and_trigrams(filteredWords)
 print("individual words: ", solo)
 print("bigrams: ", bi)
 print("trigrams: ", tri)
+
+# create text for word cloud from solo
+wordCloud = open(r'individual_words.txt','w')
+for word, count in solo:
+    for i in range(0, count):
+        wordCloud.write(word + " ")
+wordCloud.close()

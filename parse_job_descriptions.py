@@ -29,7 +29,8 @@ def cleanData(jobDesc):
                   "able", "capabilities", "bring", "candidates", "regard", "based", "closely", "sex", "diverse", "professional",
                   "like", "specifications", "familiarity", "day", "candidate", "excellent", "area", "learn", "also",
                   "processes", "clearance", "diversity", "want", "access", "background", "standard", "minimum", "need",
-                  "aurora"]
+                  "aurora", "strong", "field", "understanding", "good", "tests", "impact", "committed", "ensure",
+                  "university", "plus", "health", "bs", "understand", "multiple", "business"]
     for word in irrelevant:
         stopWords.append(word)
     filteredWords = nltk.FreqDist(word.lower() for word in words if word.lower() not in stopWords)
@@ -37,7 +38,6 @@ def cleanData(jobDesc):
     return filteredWords
 
 
-# TODO: bigrams and trigrams only ever appear once because every post is written uniquely, try to find a way to rank freq regardless of word order
 def bigrams_and_trigrams(filteredWords):
     # individual words
     solograms = filteredWords.most_common(100)
